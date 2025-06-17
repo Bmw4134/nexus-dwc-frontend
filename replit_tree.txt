@@ -1,0 +1,3477 @@
+.
+├── ALPHA_OMEGA_DEPLOYMENT_FRAMEWORK.md
+├── api_keys.json
+├── app_executive.py
+├── attached_assets
+│   ├── 90A21A49-BF9E-4FF4-AAA5-0642B2649ED0_1749142856890.png
+│   ├── agent_regression_guard.py
+│   ├── ai-dashboard-design-demo_1749433525224.zip
+│   ├── ai_performance_comparison.png
+│   ├── ai_platform_comparison.csv
+│   ├── ai_platform_radar_chart.png
+│   ├── ai-testing-framework.md
+│   ├── ai_testing_frameworks_comparison.png
+│   ├── ai_testing_frameworks.csv
+│   ├── ai_testing_metrics.csv
+│   ├── ALPHA_OMEGA_QUANTUM_QQ_BUNDLE_FINAL.zip
+│   ├── alpha_patch_bot.zip
+│   ├── App_patch_1749152812388.txt
+│   ├── bim_infinity_investor_confidence_suite_1749106519384.zip
+│   ├── bim_infinity_ultimate_master_suite_1749105733522.zip
+│   ├── bim_infinity_watson_stress_patch_1749121765228.zip
+│   ├── BIM_QQInfinity_Module_1749080317850.zip
+│   ├── chart_script_1.py
+│   ├── chart_script_2.py
+│   ├── chart_script.py
+│   ├── chat-history-consolidation.md
+│   ├── click_sync_analyzer.py
+│   ├── client
+│   │   └── src
+│   ├── Complete Dashboard Development Toolkit_ The Essent_1750106005215.md
+│   ├── Comprehensive Dashboard Development and Deployment_1750104498607.md
+│   ├── config
+│   │   └── config.json
+│   ├── connect_all_brains.py
+│   ├── DeltaBoth.cs 2.txt
+│   ├── DeltaBoth.cs.txt
+│   ├── development_workflow_improvement.csv
+│   ├── DW_AI_BOOTLOADER.md
+│   ├── dwc_custom_action_module_1749738280854.zip
+│   ├── dwc_dashboard.py
+│   ├── DWC_FUNDING_DASHBOARD_BUNDLE_ALPHAOMEGA.zip
+│   ├── DWC_NEXUS_Deployment_Scaffold 2_1749304879150.zip
+│   ├── dwc_phase1trillion_plus
+│   │   ├── autonomous_journal
+│   │   ├── delta_divergence_module
+│   │   ├── mobile_scaler
+│   │   ├── quantum_logic
+│   │   ├── replit_agent_prompts
+│   │   ├── secure_auth
+│   │   ├── signal_aggregator
+│   │   ├── success_trigger
+│   │   ├── trading_strategy_core
+│   │   └── ui_hooks
+│   ├── DWC_Quantum_LeadMap_React_AutoControlDock.zip
+│   ├── dwc_router_bundle_1749579449142.zip
+│   ├── Elite_Dashboard_Automation_ASI_Stack_Research_20250602_201907.txt
+│   ├── .env.local
+│   ├── exported-assets_1749427581799.zip
+│   ├── exported-assets (22)_1750098767011.zip
+│   ├── exported-assets (23)_1750099968586.zip
+│   ├── exported-assets (24)_1750100571202.zip
+│   ├── feedback_optimization_strategies.csv
+│   ├── feedback_strategies_chart.png
+│   ├── final_deploy_bundle_1749734486519.zip
+│   ├── final_deploy_bundle_1749734814789.zip
+│   ├── final_deploy_bundle_1749736485748.zip
+│   ├── final_deploy_bundle_1749736963156.zip
+│   ├── Function-Specific Dashboard Design_ Preserving Ind_1750105396169.md
+│   ├── gamexchange_lead_site_1749497347384.zip
+│   ├── image_1748896699131.png
+│   ├── image_1748898868946.png
+│   ├── image_1748898978088.png
+│   ├── image_1748898983638.png
+│   ├── image_1748899071646.png
+│   ├── image_1748900977859.png
+│   ├── image_1748901104414.png
+│   ├── image_1748901871126.png
+│   ├── image_1748902003729.png
+│   ├── image_1748934391478.png
+│   ├── image_1748934534764.png
+│   ├── image_1748934911572.png
+│   ├── image_1748938551594.png
+│   ├── image_1748938676272.png
+│   ├── image_1748967311385.png
+│   ├── image_1748967433072.png
+│   ├── image_1748968421277.png
+│   ├── image_1748968470098.png
+│   ├── image_1748992715543.png
+│   ├── image_1748995159213.png
+│   ├── image_1748999755110.png
+│   ├── image_1749011786243.png
+│   ├── image_1749012782729.png
+│   ├── image_1749013252596.png
+│   ├── image_1749013423466.png
+│   ├── image_1749014102937.png
+│   ├── image_1749014156301.png
+│   ├── image_1749014622742.png
+│   ├── image_1749014733467.png
+│   ├── image_1749015068112.png
+│   ├── image_1749017158789.png
+│   ├── image_1749017393903.png
+│   ├── image_1749018349128.png
+│   ├── image_1749018521201.png
+│   ├── image_1749018802516.png
+│   ├── image_1749019436908.png
+│   ├── image_1749019516495.png
+│   ├── image_1749022677447.png
+│   ├── image_1749025802458.png
+│   ├── image_1749027570088.png
+│   ├── image_1749027579402.png
+│   ├── image_1749028098378.png
+│   ├── image_1749028121785.png
+│   ├── image_1749028141981.png
+│   ├── image_1749028241369.png
+│   ├── image_1749028246608.png
+│   ├── image_1749030805780.png
+│   ├── image_1749050238120.png
+│   ├── image_1749050272591.png
+│   ├── image_1749050928174.png
+│   ├── image_1749051613666.png
+│   ├── image_1749058329515.png
+│   ├── image_1749058355446.png
+│   ├── image_1749059749483.png
+│   ├── image_1749060137157.png
+│   ├── image_1749060285929.png
+│   ├── image_1749122907261.png
+│   ├── image_1749123110630.png
+│   ├── image_1749157836727.png
+│   ├── image_1749246308406.png
+│   ├── image_1749247280190.png
+│   ├── image_1749257906570.png
+│   ├── image_1749328020594.png
+│   ├── image_1749415113274.png
+│   ├── image_1749425958822.png
+│   ├── image_1749435037187.png
+│   ├── image_1749477446694.png
+│   ├── image_1749495858176.png
+│   ├── image_1749497370832.png
+│   ├── image_1749499159479.png
+│   ├── image_1749501085655.png
+│   ├── image_1749567923253.png
+│   ├── image_1749567932848.png
+│   ├── image_1749571019718.png
+│   ├── image_1749571862789.png
+│   ├── image_1749572262626.png
+│   ├── image_1749572557267.png
+│   ├── image_1749572703647.png
+│   ├── image_1749573154600.png
+│   ├── image_1749584255139.png
+│   ├── image_1749586438159.png
+│   ├── image_1749587238789.png
+│   ├── image_1749589116157.png
+│   ├── image_1749589216932.png
+│   ├── image_1749589408742.png
+│   ├── image_1749599535517.png
+│   ├── image_1749600049474.png
+│   ├── image_1749603904003.png
+│   ├── image_1749739128810.png
+│   ├── image_1749739741508.png
+│   ├── image_1749740414301.png
+│   ├── image_1749741256350.png
+│   ├── image_1749741514196.png
+│   ├── image_1749743921758.png
+│   ├── image_1749745056721.png
+│   ├── image_1749763678904.png
+│   ├── image_1749765351490.png
+│   ├── image_1749820912525.png
+│   ├── image_1749828589928.jpg
+│   ├── image_1749829514930.png
+│   ├── image_1749833118129.jpg
+│   ├── image_1749836221990.png
+│   ├── image_1749836947678.png
+│   ├── image_1749849905812.png
+│   ├── image_1749851311806.png
+│   ├── image_1749851869428.png
+│   ├── image_1749852284380.png
+│   ├── image_1749854265921.png
+│   ├── image_1749854985123.png
+│   ├── image_1749855564856.png
+│   ├── image_1749856643492.png
+│   ├── image_1749858285682.png
+│   ├── image_1749861305805.jpg
+│   ├── image_1749861442283.png
+│   ├── image_1749862770545.jpg
+│   ├── image_1749866002860.png
+│   ├── image_1749909882229.png
+│   ├── image_1750077656192.png
+│   ├── image_1750081855798.jpg
+│   ├── image_1750086834911.png
+│   ├── image_1750087954363.png
+│   ├── image_1750088100867.png
+│   ├── image_1750088460031.png
+│   ├── image_1750091265558.png
+│   ├── image_1750091276332.png
+│   ├── image_1750091283663.png
+│   ├── image_1750091804558.png
+│   ├── image_1750093988768.png
+│   ├── image_1750104737400.png
+│   ├── image.jpg
+│   ├── IMG_0372_1749736970693.png
+│   ├── IMG_0373_1749736970693.png
+│   ├── IMG_0485_1749788386436.png
+│   ├── IMG_0486_1749788386436.png
+│   ├── IMG_0515_1749862808651.jpeg
+│   ├── IMG_0526_1749828577463.jpeg
+│   ├── IMG_0528_1749828577462.jpeg
+│   ├── IMG_0545_1749862808651.png
+│   ├── IMG_0601_1749902527821.png
+│   ├── IMG_0603_1749902527821.png
+│   ├── IMG_0604_1749902527821.png
+│   ├── IMG_0605_1749902527821.png
+│   ├── IMG_0606_1749902527821.png
+│   ├── IMG_0607_1749902527821.png
+│   ├── IMG_0608_1749902527821.png
+│   ├── IMG_0609_1749902527821.png
+│   ├── IMG_0864_1750045436225.png
+│   ├── IMG_0882_1750050326572.png
+│   ├── IMG_8989.png
+│   ├── IMG_8998.png
+│   ├── IMG_9004.png
+│   ├── IMG_9006.png
+│   ├── IMG_9007.png
+│   ├── IMG_9008.png
+│   ├── IMG_9024.png
+│   ├── IMG_9025.png
+│   ├── IMG_9026.png
+│   ├── IMG_9032.png
+│   ├── IMG_9033.png
+│   ├── IMG_9034.png
+│   ├── IMG_9035.png
+│   ├── IMG_9036.png
+│   ├── IMG_9037.png
+│   ├── IMG_9105.png
+│   ├── IMG_9190.png
+│   ├── IMG_9215.png
+│   ├── IMG_9221.png
+│   ├── IMG_9228_1749065195283.jpeg
+│   ├── IMG_9380_1749122745968.png
+│   ├── IMG_9381_1749122745968.png
+│   ├── IMG_9382_1749122745968.png
+│   ├── IMG_9383_1749122745968.png
+│   ├── IMG_9384_1749122745968.png
+│   ├── IMG_9418_1749134817180.png
+│   ├── IMG_9419_1749137138310.jpeg
+│   ├── IMG_9419_1749860366358.jpeg
+│   ├── IMG_9425_1749141946936.png
+│   ├── IMG_9782_1749363477769.png
+│   ├── Implementing Browser-in-Browser Functionality for_1750099412065.md
+│   ├── Implementing Browser-in-Browser Functionality for_1750099417908.md
+│   ├── index.html
+│   ├── infinity_suite
+│   │   ├── agents
+│   │   ├── auth
+│   │   ├── automation
+│   │   ├── auto_patch_prompt.yaml
+│   │   ├── cli
+│   │   ├── core
+│   │   ├── dashboards
+│   │   ├── deploy
+│   │   ├── dna_registry.json
+│   │   ├── drilldown
+│   │   ├── finance
+│   │   ├── goal_tracker_2025-06-05T061612.json
+│   │   ├── goal_tracker.json
+│   │   ├── infinity
+│   │   ├── integration
+│   │   ├── investment_flag.json
+│   │   ├── main.py
+│   │   ├── meta
+│   │   ├── metadata
+│   │   ├── missions
+│   │   ├── navigation
+│   │   ├── runtime
+│   │   ├── secure
+│   │   ├── security
+│   │   ├── session_fingerprint.json
+│   │   ├── sovereign
+│   │   ├── stress_test_launcher.py
+│   │   ├── tests
+│   │   ├── training
+│   │   ├── ui
+│   │   ├── utils
+│   │   └── walkthrough_registry.json
+│   ├── InfinitySync_Visual_Mobile_Validator_1749153563848.zip
+│   ├── InfinityTrinity_MobileFix_AlphaOmega_1749143339879.zip
+│   ├── Infinity_UI_Training_Bundle_1749134150310.zip
+│   ├── infinity_uniform_standardization_bundle.zip
+│   ├── instant_feedback_tools_comparison.csv
+│   ├── intelligence_layers.py
+│   ├── kaizen_final_infinity_patch_TEST_READY_LOCKED_1749115928131.zip
+│   ├── KAIZEN_FINAL_PUSH_TEST_BUNDLE_1749117533661.zip
+│   ├── kaizen_gpt_enhancements.md
+│   ├── kaizen_gpt_evolution_roadmap.md
+│   ├── kaizen_gpt_mega_patch.md
+│   ├── kaizen-gpt-phase-1-trillion-max-plus.zip
+│   ├── kaizen-gpt-phase-2trillion-complete.zip
+│   ├── kaizen_gpt_qq_modeling_finalform.zip
+│   ├── kaizen_gpt_strict_patch.py
+│   ├── kaizen_infinity_bundle_1750111515337.zip
+│   ├── Kaizen_Intelligence_Patch_v1_1749076214658.zip
+│   ├── kaizen_phase1_trillion_integrated.zip
+│   ├── kaizen_phase1trillion_plus_bundle.zip
+│   ├── kaizen_phase1trillion_secure_auth_bundle.zip
+│   ├── kaizen_test_bundle.zip
+│   ├── KAIZEN_UNIFORM_REPLIT_AGENT_PROMPT_REFERENCE_FINAL_1749115921722.md
+│   ├── LandingPage_1749738677029.jsx
+│   ├── logs
+│   ├── mobile_fixes_1749748153725.css
+│   ├── Natural Language Dashboard Creation_ Transforming_1750104231964.md
+│   ├── NEXUS_Infinity_Deployment_1749306922676.zip
+│   ├── NEXUS_UNIFIED_FINAL_BUNDLE.zip
+│   ├── Open Source Public APIs for DWC Systems Dashboard_1750097184552.md
+│   ├── package.json
+│   ├── Pasted-Absolutely-Let-s-explore-how-dashboard-design-evolves-across-the-AI-spectrum-Artificial-Narrow-In-1748933994083.txt
+│   ├── Pasted--agent-master-sync-Recover-and-standardize-all-scaffolded-modules-users-and-automations-in-this-R-1749740849778_1749740849778.txt
+│   ├── Pasted-brainstorm-new-features-Just-now-BW-bmwatson34-Looking-at-your-NEXUS-platform-s-current-capa-1750088886591_1750088886592.txt
+│   ├── Pasted--FREE-APIs-Initializing-public-API-integrations-QUANTUM-STEALTH-Activating-bypass-technology--1750102233656_1750102233657.txt
+│   ├── Pasted--FULL-SYSTEM-DEPLOYMENT-SELF-EVOLUTION-AND-CONSOLE-BOOTSTRAP-INITIATED-1-Scan-entire-dashboard-1749845743920_1749845743921.txt
+│   ├── Pasted-Got-it-Here-s-the-deep-dive-NEXUS-UltraSync-Production-Prompt-engineered-for-recursive-validation-1750083429119_1750083429119.txt
+│   ├── Pasted-Here-s-both-the-ready-to-run-script-file-and-the-Replit-Agent-prompt-to-launch-a-forensic-trace-of-y-1750048962373_1750048962373.txt
+│   ├── Pasted-Hi-I-need-you-to-take-this-project-to-full-deployment-readiness-from-alpha-to-omega-across-all--1749406921791_1749406921791.txt
+│   ├── Pasted--How-to-Prevent-Replit-from-Regressing-A-Comprehensive-Guide-Based-on-extensive-research-into-R-1750097424921_1750097424922.txt
+│   ├── Pasted-import-numpy-as-np-class-PerplexityInjector-def-init-self-model-dwc-stream-sel-1748995992399.txt
+│   ├── Pasted-import-numpy-as-np-import-matplotlib-pyplot-as-plt-import-time-import-random-class-PerplexityInject-1748996121916.txt
+│   ├── Pasted-import-numpy-as-np-import-matplotlib-pyplot-as-plt-import-time-import-random-import-requests-class--1748996275928.txt
+│   ├── Pasted-import-numpy-as-np-import-matplotlib-pyplot-as-plt-import-time-import-random-import-requests-class--1748996393093.txt
+│   ├── Pasted-import-numpy-as-np-import-matplotlib-pyplot-as-plt-import-time-import-random-import-requests-class--1748996613622.txt
+│   ├── Pasted-import-numpy-as-np-import-matplotlib-pyplot-as-plt-import-time-import-random-import-requests-class--1748998662080.txt
+│   ├── Pasted-import-numpy-as-np-import-matplotlib-pyplot-as-plt-import-time-import-random-import-requests-class--1749000664517.txt
+│   ├── Pasted-INITIATE-IN-NEXUS-MODE-You-are-the-unified-Replit-Agent-for-the-NEXUS-Intelligence-Platform-opera-1749862487450_1749862487450.txt
+│   ├── Pasted-IS-THIS-INCREASE-IN-EXPECTED-COMBINED-BENEFITS-ANOTHER-WAY-TO-DISPLAY-TO-ANY-LENDER-THAT-I-REACH-OUT-1749059313537.txt
+│   ├── Pasted--JDD-Enterprises-UI-UX-Knowledge-Transfer-Document-Complete-Platform-Architecture-and-Design-Sys-1749160476371.txt
+│   ├── Pasted--KAIZENGPT-RECURSIVE-ULTRASYNC-FINALIZATION-Trigger-full-regenerative-recursion-using-NEXUS-Orche-1750082791259_1750082791259.txt
+│   ├── Pasted--kaizen-gpt-replit-agent-py-import-os-import-subprocess-import-json-from-pathlib-import-Pat-1748986420875.txt
+│   ├── Pasted--KAIZENGPT-ULTIMATE-DEPLOY-Initiate-full-stack-recursive-production-readiness-check-using-Nexus-Int-1750049662643_1750049662643.txt
+│   ├── Pasted--Kaizen-Infinity-Deployment-Playbook-Bundle-Contents-kaizen-assistant-core-ts--1750111516568_1750111516569.txt
+│   ├── Pasted--KAIZEN-ULTRA-AGENT-FULL-INFRASTRUCTURE-SAFE-BLOCK-import-os-json-subprocess-shutil-fro-1748986704514.txt
+│   ├── Pasted--Missing-function-definitions-for-map-controls-function-toggleMapView-console-log-Map-view-to-1750097482437_1750097482438.txt
+│   ├── Pasted--Missing-function-definitions-for-map-controls-function-toggleMapView-console-log-Map-view-to-1750097765258_1750097765258.txt
+│   ├── Pasted--Missing-function-definitions-for-map-controls-function-toggleMapView-console-log-Map-view-to-1750104731905_1750104731906.txt
+│   ├── Pasted--NEXUS-Operator-Directive-Evolve-Platform-Master-Prompt-Tier-2-STEP-0-START-WITH-CLEA-1749904902747_1749904902747.txt
+│   ├── Pasted-Perfect-here-s-how-we-ll-build-real-time-visible-automation-validation-directly-into-the-ZIP-1749019156691.txt
+│   ├── Pasted--Quantum-ASI-Excellence-Dashboard-for-Compactor-Brokerage-Operations-The-Secret-Sauce-Complet-1748933161903.txt
+│   ├── Pasted-QUANTUM-STEALTH-Activating-bypass-technology-QNIS-Quantum-Lead-Engine-initialized-QNIS-Loa-1750102361089_1750102361090.txt
+│   ├── Pasted-To-build-your-Quantum-Lead-Map-as-plug-and-play-as-possible-inside-Replit-with-full-automat-1749019064549.txt
+│   ├── Pasted--Verifying-AI-System-Dashboard-Generation-Capabilities-A-Comprehensive-Testing-FrameworkBased-on-e-1750100565176_1750100565177.txt
+│   ├── Pasted-YES-That-makes-complete-sense-and-it-s-not-only-logical-it-s-exactly-the-kind-of-UX-breakt-1749019206703.txt
+│   ├── Pasted-You-are-exactly-where-quantum-level-automation-usually-collapses-Execution-layer-misfire-not-st-1749026264313.txt
+│   ├── Pasted-You-re-absolutely-right-we-need-to-separate-this-completely-and-use-only-authentic-metrics-I-m-cr-1749059462008.txt
+│   ├── Pasted-Yup-you-re-reading-it-right-The-agent-is-stuck-in-a-redundant-fallback-loop-again-this-ti-1749027229541.txt
+│   ├── phase_1_trillion_quantum_trading_agent.zip
+│   ├── platform_comparison.png
+│   ├── postcss.config.js
+│   ├── public
+│   │   ├── assets
+│   │   └── index.html
+│   ├── QQ_Full_Intelligence_Transfer_20250604_152854.zip
+│   ├── quantum_ai_capabilities.csv
+│   ├── QUANTUM_ASI_FULL_BUNDLE_UPDATED.zip
+│   ├── README.md
+│   ├── Real-Time Frontend Updates with Backend Changes in_1750097811090.md
+│   ├── Real-Time Frontend Updates with Backend Changes in_1750097927612.md
+│   ├── Real-Time Frontend Updates with Backend Changes in_1750098154753.md
+│   ├── realtime_state_lock.py
+│   ├── ScreenRecording_06-02-2025 22-27-49_1.mp4
+│   ├── Screenshot 2025-06-03 at 1.02.15 PM.heic
+│   ├── Screenshot 2025-06-04 at 10.56.19 AM.heic
+│   ├── Screenshot 2025-06-04 at 12.16.41 PM.heic
+│   ├── Screenshot 2025-06-04 at 12.19.59 PM.heic
+│   ├── Screenshot 2025-06-04 at 1.31.14 PM.heic
+│   ├── Screenshot 2025-06-04 at 1.31.26 PM.heic
+│   ├── Screenshot 2025-06-04 at 2.11.00 AM.heic
+│   ├── Screenshot 2025-06-04 at 2.27.16 PM_1749065243371.heic
+│   ├── Screenshot 2025-06-04 at 3.42.46 PM_1749069773770.heic
+│   ├── Screenshot 2025-06-04 at 3.47.45 PM_1749070070427.heic
+│   ├── Screenshot 2025-06-04 at 5.01.35 PM_1749074501522.heic
+│   ├── Screenshot 2025-06-04 at 5.03.11 PM_1749074594857.heic
+│   ├── Screenshot 2025-06-04 at 5.35.10 AM.heic
+│   ├── Screenshot 2025-06-04 at 5.39.45 AM.heic
+│   ├── Screenshot 2025-06-04 at 5.40.14 AM.heic
+│   ├── Screenshot 2025-06-04 at 5.40.17 AM.heic
+│   ├── Screenshot 2025-06-04 at 5.42.09 AM.heic
+│   ├── Screenshot 2025-06-04 at 5.43.02 AM.heic
+│   ├── Screenshot 2025-06-05 at 10.46.44 AM_1749138408936.heic
+│   ├── Screenshot 2025-06-05 at 11.52.23 AM_1749142350775.heic
+│   ├── Screenshot 2025-06-05 at 12.51.00 AM_1749102665361.heic
+│   ├── Screenshot 2025-06-05 at 6.57.53 PM.heic
+│   ├── Screenshot 2025-06-05 at 6.57.55 PM.heic
+│   ├── Screenshot 2025-06-05 at 6.57.58 PM.heic
+│   ├── Screenshot 2025-06-05 at 6.58.00 PM.heic
+│   ├── Screenshot 2025-06-08 at 1.00.40 AM_1749362447500.heic
+│   ├── Screenshot 2025-06-08 at 1.04.26 AM_1749362675708.heic
+│   ├── Screenshot 2025-06-08 at 1.04.28 AM_1749362675709.heic
+│   ├── Screenshot 2025-06-08 at 1.04.30 AM_1749362675709.heic
+│   ├── Screenshot 2025-06-08 at 10.51.32 AM_1749397896675.heic
+│   ├── Screenshot 2025-06-08 at 10.55.48 AM_1749398151362.heic
+│   ├── Screenshot 2025-06-08 at 10.57.59 AM_1749398281922.heic
+│   ├── Screenshot 2025-06-08 at 10.58.37 AM_1749398322400.heic
+│   ├── Screenshot 2025-06-08 at 10.58.39 AM_1749398322401.heic
+│   ├── Screenshot 2025-06-08 at 8.06.51 AM_1749388016574.heic
+│   ├── Screenshot 2025-06-08 at 8.43.48 AM_1749390232793.heic
+│   ├── Screenshot 2025-06-08 at 9.35.12 AM_1749393317322.heic
+│   ├── Screenshot 2025-06-08 at 9.37.34 AM_1749393457175.heic
+│   ├── Screenshot 2025-06-08 at 9.40.46 AM_1749393650303.heic
+│   ├── Screenshot 2025-06-10 at 11.47.51 AM_1749574075556.heic
+│   ├── Screenshot 2025-06-10 at 12.08.34 PM_1749575318121.heic
+│   ├── Screenshot 2025-06-10 at 12.11.17 PM_1749575480717.heic
+│   ├── Screenshot 2025-06-10 at 12.14.03 PM_1749575652956.heic
+│   ├── Screenshot 2025-06-10 at 12.14.05 PM_1749575652956.heic
+│   ├── Screenshot 2025-06-10 at 12.14.07 PM_1749575652956.heic
+│   ├── Screenshot 2025-06-10 at 12.14.08 PM_1749575652956.heic
+│   ├── Screenshot 2025-06-10 at 12.14.09 PM_1749575652957.heic
+│   ├── Screenshot 2025-06-10 at 12.20.29 PM_1749576032009.heic
+│   ├── Screenshot 2025-06-10 at 12.21.50 PM_1749576113608.heic
+│   ├── Screenshot 2025-06-10 at 12.24.20 PM_1749576263713.heic
+│   ├── Screenshot 2025-06-10 at 12.38.41 PM_1749577126207.heic
+│   ├── Screenshot 2025-06-10 at 12.38.43 PM_1749577126208.heic
+│   ├── Screenshot 2025-06-10 at 1.31.16 PM_1749580279761.heic
+│   ├── Screenshot 2025-06-10 at 2.25.39 PM_1749583541735.heic
+│   ├── Screenshot 2025-06-12 at 11.21.14 AM_1749745279143.heic
+│   ├── Screenshot 2025-06-12 at 11.56.17 PM_1749790584478.heic
+│   ├── Screenshot 2025-06-12 at 12.04.45 PM_1749747888508.heic
+│   ├── Screenshot 2025-06-12 at 12.08.50 PM_1749748134759.heic
+│   ├── Screenshot 2025-06-12 at 3.35.39 PM_1749760546789.heic
+│   ├── Screenshot 2025-06-12 at 3.44.17 PM_1749761059796.heic
+│   ├── Screenshot 2025-06-12 at 3.48.59 PM_1749761344235.heic
+│   ├── Screenshot 2025-06-12 at 3.56.01 PM_1749761763647.heic
+│   ├── Screenshot 2025-06-12 at 6.06.27 PM_1749769592713.heic
+│   ├── Screenshot 2025-06-12 at 6.06.28 PM_1749769592713.heic
+│   ├── Screenshot 2025-06-12 at 6.06.29 PM_1749769592713.heic
+│   ├── Screenshot 2025-06-12 at 8.54.37 AM_1749736480980.heic
+│   ├── Screenshot 2025-06-12 at 8.57.37 AM_1749736660728.heic
+│   ├── Screenshot 2025-06-12 at 9.02.51 AM_1749736976206.heic
+│   ├── Screenshot 2025-06-12 at 9.05.11 AM_1749737114591.heic
+│   ├── Screenshot 2025-06-12 at 9.07.37 AM_1749737260153.heic
+│   ├── Screenshot 2025-06-12 at 9.20.43 AM_1749738048026.heic
+│   ├── Screenshot 2025-06-12 at 9.39.17 PM_1749782364479.heic
+│   ├── Screenshot 2025-06-12 at 9.39.19 PM_1749782364480.heic
+│   ├── Screenshot 2025-06-12 at 9.39.20 PM_1749782364480.heic
+│   ├── Screenshot 2025-06-13 at 10.28.11 PM_1749871695346.heic
+│   ├── Screenshot 2025-06-13 at 10.54.37 PM_1749873281080.heic
+│   ├── Screenshot 2025-06-13 at 11.05.19 PM_1749873923149.heic
+│   ├── Screenshot 2025-06-13 at 11.57.42 PM_1749877065846.heic
+│   ├── Screenshot 2025-06-13 at 1.17.00 PM_1749838627325.heic
+│   ├── Screenshot 2025-06-13 at 1.23.02 AM_1749795787180.heic
+│   ├── Screenshot 2025-06-13 at 2.43.24 PM_1749843808850.heic
+│   ├── Screenshot 2025-06-13 at 3.28.41 PM_1749846524703.heic
+│   ├── Screenshot 2025-06-13 at 3.46.48 PM_1749847611952.heic
+│   ├── Screenshot 2025-06-13 at 5.14.31 PM_1749852875652.heic
+│   ├── Screenshot 2025-06-13 at 7.32.42 PM_1749861167838.heic
+│   ├── Screenshot 2025-06-13 at 8.25.58 PM_1749864362796.heic
+│   ├── Screenshot 2025-06-13 at 8.33.06 PM_1749864790331.heic
+│   ├── Screenshot 2025-06-13 at 9.04.07 PM_1749866651525.heic
+│   ├── Screenshot 2025-06-13 at 9.14.36 PM_1749867279965.heic
+│   ├── Screenshot 2025-06-14 at 12.14.26 AM_1749878072090.heic
+│   ├── Screenshot 2025-06-14 at 12.14.29 AM_1749878072090.heic
+│   ├── Screenshot 2025-06-14 at 12.16.49 AM_1749878213101.heic
+│   ├── Screenshot 2025-06-15 at 10.52.33 PM_1750045966202.heic
+│   ├── Screenshot 2025-06-15 at 10.52.37 PM_1750045966202.heic
+│   ├── Screenshot 2025-06-15 at 10.52.39 PM_1750045966202.heic
+│   ├── Screenshot 2025-06-15 at 11.08.41 PM_1750046924504.heic
+│   ├── Screenshot 2025-06-15 at 11.31.28 PM_1750048291343.heic
+│   ├── Screenshot 2025-06-16 at 1.13.44 AM_1750054428541.heic
+│   ├── Screenshot 2025-06-16 at 1.17.31 AM_1750054654529.heic
+│   ├── Screenshot 2025-06-16 at 12.10.44 AM_1750050652684.heic
+│   ├── Screenshot 2025-06-16 at 12.10.46 AM_1750050652685.heic
+│   ├── Screenshot 2025-06-16 at 12.23.27 AM_1750051413384.heic
+│   ├── Screenshot 2025-06-17 at 1.47.23 AM_1750142854629.heic
+│   ├── Screenshot 2025-06-17 at 1.47.25 AM_1750142854629.heic
+│   ├── Screenshot 2025-06-17 at 1.47.29 AM_1750142854629.heic
+│   ├── Screenshot 2025-06-17 at 1.47.31 AM_1750142854629.heic
+│   ├── Screenshot 2025-06-17 at 1.56.48 AM_1750143412796.heic
+│   ├── script_1.py
+│   ├── script_2.py
+│   ├── script.py
+│   ├── Seamless Dashboard Knowledge Integration_ A Compre_1750105765738.md
+│   ├── sidebar_config.json
+│   ├── sidebar_renderer.py
+│   ├── src
+│   │   ├── automation
+│   │   ├── main
+│   │   ├── nexus
+│   │   ├── renderer
+│   │   └── runtime
+│   ├── Synchronizing Frontend and Backend Changes for Sea_1750098033663.md
+│   ├── Synchronizing Frontend and Backend Changes for Sea_1750098152334.md
+│   ├── tailwind.config.js
+│   ├── tests
+│   │   └── test_runner.js
+│   ├── Tools for Instant Frontend Updates During Backend_1750098406067.md
+│   ├── TRAXOVO_Master_Brain_Enhancements.json
+│   ├── TRAXOVO_Remix_QQ_Intelligence_Complete.zip
+│   ├── tsconfig.json
+│   ├── universal_component_extractor.py
+│   ├── WATSON_DW_UNLOCK_PLUG_AND_PLAY_1749117456092.zip
+│   ├── WATSON_FINAL_ALPHA_OMEGA_PACKAGE.zip
+│   ├── Which open source APIs support seamless integratio_1750097230424.md
+│   ├── Which open source APIs support seamless integratio_1750098157453.md
+│   └── workflow_comparison_chart.png
+├── autoFixLog.json
+├── automation
+│   ├── goal_tracker.json
+│   ├── kaizen_intelligence.py
+│   ├── secure_controller.py
+│   └── stress_test_runner.py
+├── backup.json
+├── billion-ux-completion-report.json
+├── build.sh
+├── .cache
+│   ├── fontconfig
+│   │   ├── 3830d5c3ddfd5cd38a049b759396e72e-le64.cache-9
+│   │   ├── 3830d5c3ddfd5cd38a049b759396e72e-x86_64.cache-9
+│   │   ├── 4c599c202bc5c08e2d34565a40eac3b2-le64.cache-9
+│   │   ├── 4c599c202bc5c08e2d34565a40eac3b2-x86_64.cache-9
+│   │   ├── 7ef2298fde41cc6eeb7af42e48b7d293-le64.cache-9
+│   │   ├── 7ef2298fde41cc6eeb7af42e48b7d293-x86_64.cache-9
+│   │   ├── CACHEDIR.TAG
+│   │   ├── d589a48862398ed80a3d6066f4f56f4c-le64.cache-9
+│   │   └── d589a48862398ed80a3d6066f4f56f4c-x86_64.cache-9
+│   ├── replit
+│   │   ├── env
+│   │   ├── modules
+│   │   ├── modules.stamp
+│   │   ├── nix
+│   │   ├── opengrep
+│   │   └── toolchain.json
+│   ├── typescript
+│   │   ├── 5.6
+│   │   └── 5.8
+│   └── uv
+│       ├── archive-v0
+│       ├── CACHEDIR.TAG
+│       ├── .gitignore
+│       ├── interpreter-v4
+│       ├── sdists-v6
+│       ├── simple-v14
+│       └── wheels-v3
+├── cache-bust-assets.cjs
+├── cache-bust.json
+├── cached_leads.json
+├── CHART_FIX_REPORT.md
+├── clean-landing.html
+├── client
+│   ├── clean-index.html
+│   ├── dist
+│   │   ├── index.html
+│   │   └── src
+│   ├── env.d.ts
+│   ├── index.html
+│   ├── login.html
+│   ├── manifest.json
+│   ├── simple-index.html
+│   ├── src
+│   │   ├── App-clean.tsx
+│   │   ├── App.css
+│   │   ├── App-minimal.tsx
+│   │   ├── App.tsx
+│   │   ├── CleanApp.tsx
+│   │   ├── components
+│   │   ├── contexts
+│   │   ├── DeploymentConfig.tsx
+│   │   ├── FinalApp.tsx
+│   │   ├── hooks
+│   │   ├── index.css
+│   │   ├── index.html
+│   │   ├── lib
+│   │   ├── main-clean.tsx
+│   │   ├── main.tsx
+│   │   ├── MinimalApp.tsx
+│   │   ├── pages
+│   │   ├── router
+│   │   ├── SimpleApp.jsx
+│   │   └── SimpleApp.tsx
+│   ├── sw.js
+│   └── test.html
+├── components.json
+├── comprehensive-module-styles.css
+├── .config
+│   ├── chromium
+│   │   └── Crash Reports
+│   ├── glib-2.0
+│   │   └── settings
+│   ├── npm
+│   │   └── node_global
+│   ├── pulse
+│   │   ├── cookie
+│   │   └── f4375f0ac1f0-runtime -> /tmp/pulse-PKdhtXMmr18n
+│   └── .semgrep
+│       ├── semgrep.log
+│       ├── semgrep_rules.json
+│       └── settings.yml
+├── config
+│   └── platforms
+│       └── platform_config.json
+├── configs
+│   ├── dwc_config.json
+│   ├── goal_tracker.json
+│   ├── lead_log.json
+│   ├── metrics_feed.json
+│   └── visual_config.json
+├── CONSULTING_BUSINESS_PACKAGE_CLEAN.md
+├── CONSULTING_BUSINESS_PACKAGE.md
+├── cookies.txt
+├── current_leads_backup.json
+├── dashboard-enhanced.html
+├── dashboard.html
+├── dashboard-internal.html
+├── dashboards
+│   ├── techinnovate-solutions-sarah.chen-601998.jsx
+│   └── test-corp-test-899901.jsx
+├── data
+├── DEPLOYMENT_CHECKLIST.md
+├── deployment-config.json
+├── DEPLOYMENT_FINAL_STATUS.md
+├── DEPLOYMENT_GUIDE.md
+├── deployment_lock.json
+├── deployment-manifest.json
+├── deployment_manifest.lock
+├── deployment-production.json
+├── deployment-sync.cjs
+├── deployment-validation.cjs
+├── DEPLOYMENT_VALIDATION_FINAL.md
+├── deployment-validation-report.json
+├── diagnostic_overlay.jsx
+├── dist
+│   ├── index.js
+│   └── public
+│       ├── index.html
+│       └── nexus-master-sync.html
+├── drizzle.config.ts
+├── dwc
+│   ├── dwc_console.jsx
+│   ├── dwc_engine.js
+│   └── workflow_map.json
+├── DWC_CLEAN_RESTORE.md
+├── dwc-infinity-deployment-final.json
+├── dwc-sales-portal.html
+├── .env.local
+├── .env.production
+├── favicon-32x32.png
+├── favicon.ico
+├── FINAL_DEPLOYMENT_REPORT.md
+├── final-deployment-sync.cjs
+├── forensic_trace.sh
+├── generated-icon.png
+├── .git
+│   ├── branches
+│   ├── COMMIT_EDITMSG
+│   ├── config
+│   ├── config.lock
+│   ├── description
+│   ├── FETCH_HEAD
+│   ├── HEAD
+│   ├── hooks
+│   │   ├── applypatch-msg.sample
+│   │   ├── commit-msg.sample
+│   │   ├── fsmonitor-watchman.sample
+│   │   ├── post-update.sample
+│   │   ├── pre-applypatch.sample
+│   │   ├── pre-commit.sample
+│   │   ├── pre-merge-commit.sample
+│   │   ├── prepare-commit-msg.sample
+│   │   ├── pre-push.sample
+│   │   ├── pre-rebase.sample
+│   │   ├── pre-receive.sample
+│   │   ├── push-to-checkout.sample
+│   │   ├── sendemail-validate.sample
+│   │   └── update.sample
+│   ├── index
+│   ├── info
+│   │   ├── exclude
+│   │   └── refs
+│   ├── logs
+│   │   ├── HEAD
+│   │   └── refs
+│   ├── objects
+│   │   ├── 00
+│   │   ├── 01
+│   │   ├── 02
+│   │   ├── 03
+│   │   ├── 04
+│   │   ├── 05
+│   │   ├── 06
+│   │   ├── 07
+│   │   ├── 08
+│   │   ├── 09
+│   │   ├── 0a
+│   │   ├── 0b
+│   │   ├── 0c
+│   │   ├── 0d
+│   │   ├── 0e
+│   │   ├── 0f
+│   │   ├── 10
+│   │   ├── 11
+│   │   ├── 12
+│   │   ├── 13
+│   │   ├── 14
+│   │   ├── 15
+│   │   ├── 16
+│   │   ├── 17
+│   │   ├── 18
+│   │   ├── 19
+│   │   ├── 1a
+│   │   ├── 1b
+│   │   ├── 1c
+│   │   ├── 1d
+│   │   ├── 1e
+│   │   ├── 1f
+│   │   ├── 20
+│   │   ├── 21
+│   │   ├── 22
+│   │   ├── 23
+│   │   ├── 24
+│   │   ├── 25
+│   │   ├── 26
+│   │   ├── 27
+│   │   ├── 28
+│   │   ├── 29
+│   │   ├── 2a
+│   │   ├── 2b
+│   │   ├── 2c
+│   │   ├── 2d
+│   │   ├── 2e
+│   │   ├── 2f
+│   │   ├── 30
+│   │   ├── 31
+│   │   ├── 32
+│   │   ├── 33
+│   │   ├── 34
+│   │   ├── 35
+│   │   ├── 36
+│   │   ├── 37
+│   │   ├── 38
+│   │   ├── 39
+│   │   ├── 3a
+│   │   ├── 3b
+│   │   ├── 3c
+│   │   ├── 3d
+│   │   ├── 3e
+│   │   ├── 3f
+│   │   ├── 40
+│   │   ├── 41
+│   │   ├── 42
+│   │   ├── 43
+│   │   ├── 44
+│   │   ├── 45
+│   │   ├── 46
+│   │   ├── 47
+│   │   ├── 48
+│   │   ├── 49
+│   │   ├── 4a
+│   │   ├── 4b
+│   │   ├── 4c
+│   │   ├── 4d
+│   │   ├── 4e
+│   │   ├── 4f
+│   │   ├── 50
+│   │   ├── 51
+│   │   ├── 52
+│   │   ├── 53
+│   │   ├── 54
+│   │   ├── 55
+│   │   ├── 56
+│   │   ├── 57
+│   │   ├── 58
+│   │   ├── 59
+│   │   ├── 5a
+│   │   ├── 5b
+│   │   ├── 5c
+│   │   ├── 5d
+│   │   ├── 5e
+│   │   ├── 5f
+│   │   ├── 60
+│   │   ├── 61
+│   │   ├── 62
+│   │   ├── 63
+│   │   ├── 64
+│   │   ├── 65
+│   │   ├── 66
+│   │   ├── 67
+│   │   ├── 68
+│   │   ├── 69
+│   │   ├── 6a
+│   │   ├── 6b
+│   │   ├── 6c
+│   │   ├── 6d
+│   │   ├── 6e
+│   │   ├── 6f
+│   │   ├── 70
+│   │   ├── 71
+│   │   ├── 72
+│   │   ├── 73
+│   │   ├── 74
+│   │   ├── 75
+│   │   ├── 76
+│   │   ├── 77
+│   │   ├── 78
+│   │   ├── 79
+│   │   ├── 7a
+│   │   ├── 7b
+│   │   ├── 7c
+│   │   ├── 7d
+│   │   ├── 7e
+│   │   ├── 7f
+│   │   ├── 80
+│   │   ├── 81
+│   │   ├── 82
+│   │   ├── 83
+│   │   ├── 84
+│   │   ├── 85
+│   │   ├── 86
+│   │   ├── 87
+│   │   ├── 88
+│   │   ├── 89
+│   │   ├── 8a
+│   │   ├── 8b
+│   │   ├── 8c
+│   │   ├── 8d
+│   │   ├── 8e
+│   │   ├── 8f
+│   │   ├── 90
+│   │   ├── 91
+│   │   ├── 92
+│   │   ├── 93
+│   │   ├── 94
+│   │   ├── 95
+│   │   ├── 96
+│   │   ├── 97
+│   │   ├── 98
+│   │   ├── 99
+│   │   ├── 9a
+│   │   ├── 9b
+│   │   ├── 9c
+│   │   ├── 9d
+│   │   ├── 9e
+│   │   ├── 9f
+│   │   ├── a0
+│   │   ├── a1
+│   │   ├── a2
+│   │   ├── a3
+│   │   ├── a4
+│   │   ├── a5
+│   │   ├── a6
+│   │   ├── a7
+│   │   ├── a8
+│   │   ├── a9
+│   │   ├── aa
+│   │   ├── ab
+│   │   ├── ac
+│   │   ├── ad
+│   │   ├── ae
+│   │   ├── af
+│   │   ├── b0
+│   │   ├── b1
+│   │   ├── b2
+│   │   ├── b3
+│   │   ├── b4
+│   │   ├── b5
+│   │   ├── b6
+│   │   ├── b7
+│   │   ├── b8
+│   │   ├── b9
+│   │   ├── ba
+│   │   ├── bb
+│   │   ├── bc
+│   │   ├── bd
+│   │   ├── be
+│   │   ├── bf
+│   │   ├── c0
+│   │   ├── c1
+│   │   ├── c2
+│   │   ├── c3
+│   │   ├── c4
+│   │   ├── c5
+│   │   ├── c6
+│   │   ├── c7
+│   │   ├── c8
+│   │   ├── c9
+│   │   ├── ca
+│   │   ├── cb
+│   │   ├── cc
+│   │   ├── cd
+│   │   ├── ce
+│   │   ├── cf
+│   │   ├── d0
+│   │   ├── d1
+│   │   ├── d2
+│   │   ├── d3
+│   │   ├── d4
+│   │   ├── d5
+│   │   ├── d6
+│   │   ├── d7
+│   │   ├── d8
+│   │   ├── d9
+│   │   ├── da
+│   │   ├── db
+│   │   ├── dc
+│   │   ├── dd
+│   │   ├── de
+│   │   ├── df
+│   │   ├── e0
+│   │   ├── e1
+│   │   ├── e2
+│   │   ├── e3
+│   │   ├── e4
+│   │   ├── e5
+│   │   ├── e6
+│   │   ├── e7
+│   │   ├── e8
+│   │   ├── e9
+│   │   ├── ea
+│   │   ├── eb
+│   │   ├── ec
+│   │   ├── ed
+│   │   ├── ee
+│   │   ├── ef
+│   │   ├── f0
+│   │   ├── f1
+│   │   ├── f2
+│   │   ├── f3
+│   │   ├── f4
+│   │   ├── f5
+│   │   ├── f6
+│   │   ├── f7
+│   │   ├── f8
+│   │   ├── f9
+│   │   ├── fa
+│   │   ├── fb
+│   │   ├── fc
+│   │   ├── fd
+│   │   ├── fe
+│   │   ├── ff
+│   │   ├── info
+│   │   ├── maintenance.lock
+│   │   └── pack
+│   ├── ORIG_HEAD
+│   ├── ORIG_HEAD.lock
+│   ├── packed-refs
+│   └── refs
+│       ├── heads
+│       ├── notes
+│       ├── remotes
+│       ├── replit
+│       └── tags
+├── .gitignore
+├── goal_tracker.json
+├── healthCheckLog.json
+├── infinity-deployment-report.json
+├── init_unlock.py
+├── init_watson_deployment.py
+├── investor-dashboard.html
+├── INVESTOR_PACKAGE.md
+├── investor-presentation.html
+├── JDD_QUANTUM_LEAD_MAP_ACTIVATION.md
+├── landing.css
+├── landing.html
+├── landing-verified.html
+├── lead_assets
+│   └── gamexchange_2025
+│       ├── deploy.js
+│       ├── deployment-manifest.json
+│       ├── index.html
+│       ├── netlify.toml
+│       └── README.md
+├── leadMapCache.json
+├── LICENSE
+├── .local
+│   └── state
+│       └── replit
+├── login.html
+├── logs
+│   ├── dw_restore_patch.json
+│   ├── human_sim_core_status.json
+│   ├── kaizen_funding_log.json
+│   └── state_recovery_patch.json
+├── MASTER_REBUILD_PROMPT_JDD.md
+├── MODULAR_DIAGNOSTICS_SUITE_DOCUMENTATION.md
+├── modules
+│   └── quantum_trading_agent
+│       ├── advanced_quantum_trader.py
+│       ├── agent_memory.json
+│       ├── alpaca_ping.py
+│       ├── binance_api_manager.py
+│       ├── binance_connector.py
+│       ├── bybit_trade_dispatch.py
+│       ├── coinbase_auth.py
+│       ├── coinbase_simple_auth.py
+│       ├── compound_strategy.py
+│       ├── delta_scalping.py
+│       ├── dwc_phase1trillion_plus_agent.py
+│       ├── enhanced_perplexity_system.py
+│       ├── futures_trade_handler.py
+│       ├── global_risk_controller.py
+│       ├── ib_trader.py
+│       ├── kaizen_config.json
+│       ├── kaizen_init.py
+│       ├── last_view_trigger_action.json
+│       ├── market_brain.py
+│       ├── mobile_scraper.py
+│       ├── parse_signal.py
+│       ├── perplexity_injector.py
+│       ├── phase_2_trillion_orchestrator.py
+│       ├── platform_adapter.py
+│       ├── platform_selector.py
+│       ├── __pycache__
+│       ├── quantum_strategy_selector.py
+│       ├── sentiment_layer.py
+│       ├── session_recorder.py
+│       ├── trader.py
+│       ├── UI_toggle.html
+│       └── view_confidence_score.json
+├── netlify.toml
+├── NEXUS_AUDIT_REPORT.md
+├── nexus-deployment-manifest.json
+├── nexus-deployment-validation.json
+├── nexus-design-system.css
+├── NEXUS_FINAL_DEPLOYMENT_AUDIT.md
+├── nexus-master-user-simulation.js
+├── nexus_module_diagnostic.json
+├── NEXUS_PRODUCTION_DEPLOYMENT_COMPLETE.md
+├── NEXUS_RESPONSIVE_DEPLOYMENT_REPORT.md
+├── nexus-simulation-report.json
+├── nexus-stable-dashboard.html
+├── nexus-system-test-report.json
+├── nexus-ultrasync-trigger.html
+├── node_modules
+│   ├── accepts
+│   │   ├── HISTORY.md
+│   │   ├── index.js
+│   │   ├── LICENSE
+│   │   ├── package.json
+│   │   └── README.md
+│   ├── agent-base
+│   │   ├── dist
+│   │   ├── LICENSE
+│   │   ├── package.json
+│   │   └── README.md
+│   ├── @alloc
+│   ├── @ampproject
+│   │   └── remapping
+│   ├── ansi-regex
+│   │   ├── index.d.ts
+│   │   ├── index.js
+│   │   ├── license
+│   │   ├── package.json
+│   │   └── readme.md
+│   ├── ansi-styles
+│   │   ├── index.d.ts
+│   │   ├── index.js
+│   │   ├── license
+│   │   ├── package.json
+│   │   └── readme.md
+│   ├── @anthropic-ai
+│   ├── argparse
+│   │   ├── argparse.js
+│   │   ├── CHANGELOG.md
+│   │   ├── lib
+│   │   ├── LICENSE
+│   │   ├── package.json
+│   │   └── README.md
+│   ├── array-flatten
+│   │   ├── array-flatten.js
+│   │   ├── LICENSE
+│   │   ├── package.json
+│   │   └── README.md
+│   ├── ast-types
+│   │   ├── def
+│   │   ├── fork.d.ts
+│   │   ├── fork.js
+│   │   ├── gen
+│   │   ├── .github
+│   │   ├── lib
+│   │   ├── LICENSE
+│   │   ├── main.d.ts
+│   │   ├── main.js
+│   │   ├── package.json
+│   │   ├── README.md
+│   │   ├── tsconfig.json
+│   │   ├── types.d.ts
+│   │   └── types.js
+│   ├── asynckit
+│   │   ├── bench.js
+│   │   ├── index.js
+│   │   ├── lib
+│   │   ├── LICENSE
+│   │   ├── package.json
+│   │   ├── parallel.js
+│   │   ├── README.md
+│   │   ├── serial.js
+│   │   ├── serialOrdered.js
+│   │   └── stream.js
+│   ├── axios
+│   │   ├── CHANGELOG.md
+│   │   ├── dist
+│   │   ├── index.d.cts
+│   │   ├── index.d.ts
+│   │   ├── index.js
+│   │   ├── lib
+│   │   ├── LICENSE
+│   │   ├── MIGRATION_GUIDE.md
+│   │   ├── package.json
+│   │   └── README.md
+│   ├── b4a
+│   │   ├── browser.js
+│   │   ├── index.js
+│   │   ├── lib
+│   │   ├── LICENSE
+│   │   ├── package.json
+│   │   └── README.md
+│   ├── @babel
+│   │   ├── code-frame
+│   │   ├── compat-data
+│   │   ├── core
+│   │   ├── generator
+│   │   ├── helper-compilation-targets
+│   │   ├── helper-module-imports
+│   │   ├── helper-module-transforms
+│   │   ├── helper-plugin-utils
+│   │   ├── helpers
+│   │   ├── helper-string-parser
+│   │   ├── helper-validator-identifier
+│   │   ├── helper-validator-option
+│   │   ├── parser
+│   │   ├── plugin-transform-react-jsx-self
+│   │   ├── plugin-transform-react-jsx-source
+│   │   ├── template
+│   │   ├── traverse
+│   │   └── types
+│   ├── bare-events
+│   │   ├── index.d.ts
+│   │   ├── index.js
+│   │   ├── lib
+│   │   ├── LICENSE
+│   │   ├── package.json
+│   │   └── README.md
+│   ├── bare-fs
+│   │   ├── binding.c
+│   │   ├── binding.js
+│   │   ├── CMakeLists.txt
+│   │   ├── index.d.ts
+│   │   ├── index.js
+│   │   ├── lib
+│   │   ├── LICENSE
+│   │   ├── package.json
+│   │   ├── prebuilds
+│   │   ├── promises.d.ts
+│   │   ├── promises.js
+│   │   └── README.md
+│   ├── bare-os
+│   │   ├── binding.c
+│   │   ├── binding.js
+│   │   ├── CMakeLists.txt
+│   │   ├── index.d.ts
+│   │   ├── index.js
+│   │   ├── lib
+│   │   ├── LICENSE
+│   │   ├── package.json
+│   │   ├── prebuilds
+│   │   └── README.md
+│   ├── bare-path
+│   │   ├── index.js
+│   │   ├── lib
+│   │   ├── LICENSE
+│   │   ├── NOTICE
+│   │   ├── package.json
+│   │   └── README.md
+│   ├── bare-stream
+│   │   ├── global.js
+│   │   ├── index.d.ts
+│   │   ├── index.js
+│   │   ├── LICENSE
+│   │   ├── package.json
+│   │   ├── promises.js
+│   │   ├── README.md
+│   │   └── web.js
+│   ├── basic-ftp
+│   │   ├── dist
+│   │   ├── LICENSE.txt
+│   │   ├── package.json
+│   │   └── README.md
+│   ├── .bin
+│   │   ├── browsers -> ../@puppeteer/browsers/lib/cjs/main-cli.js
+│   │   ├── browserslist -> ../browserslist/cli.js
+│   │   ├── cssesc -> ../cssesc/bin/cssesc
+│   │   ├── drizzle-kit -> ../drizzle-kit/bin.cjs
+│   │   ├── esbuild -> ../esbuild/bin/esbuild
+│   │   ├── escodegen -> ../escodegen/bin/escodegen.js
+│   │   ├── esgenerate -> ../escodegen/bin/esgenerate.js
+│   │   ├── esparse -> ../esprima/bin/esparse.js
+│   │   ├── esvalidate -> ../esprima/bin/esvalidate.js
+│   │   ├── extract-zip -> ../extract-zip/cli.js
+│   │   ├── jsesc -> ../jsesc/bin/jsesc
+│   │   ├── json5 -> ../json5/lib/cli.js
+│   │   ├── js-yaml -> ../js-yaml/bin/js-yaml.js
+│   │   ├── loose-envify -> ../loose-envify/cli.js
+│   │   ├── mime -> ../mime/cli.js
+│   │   ├── nanoid -> ../nanoid/bin/nanoid.cjs
+│   │   ├── parser -> ../@babel/parser/bin/babel-parser.js
+│   │   ├── puppeteer -> ../puppeteer/lib/cjs/puppeteer/node/cli.js
+│   │   ├── rollup -> ../rollup/dist/bin/rollup
+│   │   ├── semver -> ../semver/bin/semver.js
+│   │   ├── tsc -> ../typescript/bin/tsc
+│   │   ├── tsserver -> ../typescript/bin/tsserver
+│   │   ├── update-browserslist-db -> ../update-browserslist-db/cli.js
+│   │   └── vite -> ../vite/bin/vite.js
+│   ├── body-parser
+│   │   ├── HISTORY.md
+│   │   ├── index.js
+│   │   ├── lib
+│   │   ├── LICENSE
+│   │   ├── node_modules
+│   │   ├── package.json
+│   │   ├── README.md
+│   │   └── SECURITY.md
+│   ├── browserslist
+│   │   ├── browser.js
+│   │   ├── cli.js
+│   │   ├── error.d.ts
+│   │   ├── error.js
+│   │   ├── index.d.ts
+│   │   ├── index.js
+│   │   ├── LICENSE
+│   │   ├── node.js
+│   │   ├── package.json
+│   │   ├── parse.js
+│   │   └── README.md
+│   ├── buffer-crc32
+│   │   ├── index.js
+│   │   ├── LICENSE
+│   │   ├── package.json
+│   │   └── README.md
+│   ├── buffer-from
+│   │   ├── index.js
+│   │   ├── LICENSE
+│   │   ├── package.json
+│   │   └── readme.md
+│   ├── bytes
+│   │   ├── History.md
+│   │   ├── index.js
+│   │   ├── LICENSE
+│   │   ├── package.json
+│   │   └── Readme.md
+│   ├── call-bind
+│   │   ├── callBound.js
+│   │   ├── CHANGELOG.md
+│   │   ├── .eslintignore
+│   │   ├── .eslintrc
+│   │   ├── .github
+│   │   ├── index.js
+│   │   ├── LICENSE
+│   │   ├── .nycrc
+│   │   ├── package.json
+│   │   ├── README.md
+│   │   └── test
+│   ├── call-bind-apply-helpers
+│   │   ├── actualApply.d.ts
+│   │   ├── actualApply.js
+│   │   ├── applyBind.d.ts
+│   │   ├── applyBind.js
+│   │   ├── CHANGELOG.md
+│   │   ├── .eslintrc
+│   │   ├── functionApply.d.ts
+│   │   ├── functionApply.js
+│   │   ├── functionCall.d.ts
+│   │   ├── functionCall.js
+│   │   ├── .github
+│   │   ├── index.d.ts
+│   │   ├── index.js
+│   │   ├── LICENSE
+│   │   ├── .nycrc
+│   │   ├── package.json
+│   │   ├── README.md
+│   │   ├── reflectApply.d.ts
+│   │   ├── reflectApply.js
+│   │   ├── test
+│   │   └── tsconfig.json
+│   ├── callsites
+│   │   ├── index.d.ts
+│   │   ├── index.js
+│   │   ├── license
+│   │   ├── package.json
+│   │   └── readme.md
+│   ├── caniuse-lite
+│   │   ├── data
+│   │   ├── dist
+│   │   ├── LICENSE
+│   │   ├── package.json
+│   │   └── README.md
+│   ├── chromium-bidi
+│   │   ├── .browser
+│   │   ├── lib
+│   │   ├── LICENSE
+│   │   ├── package.json
+│   │   └── README.md
+│   ├── class-variance-authority
+│   │   ├── dist
+│   │   ├── LICENSE
+│   │   ├── package.json
+│   │   └── README.md
+│   ├── cliui
+│   │   ├── build
+│   │   ├── CHANGELOG.md
+│   │   ├── index.mjs
+│   │   ├── LICENSE.txt
+│   │   ├── package.json
+│   │   └── README.md
+│   ├── clsx
+│   │   ├── clsx.d.mts
+│   │   ├── clsx.d.ts
+│   │   ├── dist
+│   │   ├── license
+│   │   ├── package.json
+│   │   └── readme.md
+│   ├── color-convert
+│   │   ├── CHANGELOG.md
+│   │   ├── conversions.js
+│   │   ├── index.js
+│   │   ├── LICENSE
+│   │   ├── package.json
+│   │   ├── README.md
+│   │   └── route.js
+│   ├── color-name
+│   │   ├── index.js
+│   │   ├── LICENSE
+│   │   ├── package.json
+│   │   └── README.md
+│   ├── @colors
+│   ├── combined-stream
+│   │   ├── lib
+│   │   ├── License
+│   │   ├── package.json
+│   │   ├── Readme.md
+│   │   └── yarn.lock
+│   ├── content-disposition
+│   │   ├── HISTORY.md
+│   │   ├── index.js
+│   │   ├── LICENSE
+│   │   ├── package.json
+│   │   └── README.md
+│   ├── content-type
+│   │   ├── HISTORY.md
+│   │   ├── index.js
+│   │   ├── LICENSE
+│   │   ├── package.json
+│   │   └── README.md
+│   ├── convert-source-map
+│   │   ├── index.js
+│   │   ├── LICENSE
+│   │   ├── package.json
+│   │   └── README.md
+│   ├── cookie
+│   │   ├── index.js
+│   │   ├── LICENSE
+│   │   ├── package.json
+│   │   ├── README.md
+│   │   └── SECURITY.md
+│   ├── cookie-signature
+│   │   ├── History.md
+│   │   ├── index.js
+│   │   ├── .npmignore
+│   │   ├── package.json
+│   │   └── Readme.md
+│   ├── cosmiconfig
+│   │   ├── dist
+│   │   ├── LICENSE
+│   │   ├── package.json
+│   │   └── README.md
+│   ├── cssesc
+│   │   ├── bin
+│   │   ├── cssesc.js
+│   │   ├── LICENSE-MIT.txt
+│   │   ├── man
+│   │   ├── package.json
+│   │   └── README.md
+│   ├── csstype
+│   │   ├── index.d.ts
+│   │   ├── index.js.flow
+│   │   ├── LICENSE
+│   │   ├── package.json
+│   │   └── README.md
+│   ├── data-uri-to-buffer
+│   │   ├── dist
+│   │   ├── package.json
+│   │   ├── README.md
+│   │   └── src
+│   ├── debug
+│   │   ├── LICENSE
+│   │   ├── package.json
+│   │   ├── README.md
+│   │   └── src
+│   ├── define-data-property
+│   │   ├── CHANGELOG.md
+│   │   ├── .eslintrc
+│   │   ├── .github
+│   │   ├── index.d.ts
+│   │   ├── index.js
+│   │   ├── LICENSE
+│   │   ├── .nycrc
+│   │   ├── package.json
+│   │   ├── README.md
+│   │   ├── test
+│   │   └── tsconfig.json
+│   ├── degenerator
+│   │   ├── dist
+│   │   ├── package.json
+│   │   └── README.md
+│   ├── delayed-stream
+│   │   ├── lib
+│   │   ├── License
+│   │   ├── Makefile
+│   │   ├── .npmignore
+│   │   ├── package.json
+│   │   └── Readme.md
+│   ├── depd
+│   │   ├── History.md
+│   │   ├── index.js
+│   │   ├── lib
+│   │   ├── LICENSE
+│   │   ├── package.json
+│   │   └── Readme.md
+│   ├── destroy
+│   │   ├── index.js
+│   │   ├── LICENSE
+│   │   ├── package.json
+│   │   └── README.md
+│   ├── devtools-protocol
+│   │   ├── json
+│   │   ├── LICENSE
+│   │   ├── package.json
+│   │   ├── pdl
+│   │   ├── README.md
+│   │   └── types
+│   ├── drizzle-kit
+│   │   ├── api.d.mts
+│   │   ├── api.d.ts
+│   │   ├── api.js
+│   │   ├── api.mjs
+│   │   ├── bin.cjs
+│   │   ├── index-BAUrj6Ib.d.mts
+│   │   ├── index-BAUrj6Ib.d.ts
+│   │   ├── index.d.mts
+│   │   ├── index.d.ts
+│   │   ├── index.js
+│   │   ├── index.mjs
+│   │   ├── package.json
+│   │   ├── README.md
+│   │   ├── utils.js
+│   │   └── utils.mjs
+│   ├── drizzle-orm
+│   │   ├── alias.cjs
+│   │   ├── alias.cjs.map
+│   │   ├── alias.d.cts
+│   │   ├── alias.d.ts
+│   │   ├── alias.js
+│   │   ├── alias.js.map
+│   │   ├── aws-data-api
+│   │   ├── batch.cjs
+│   │   ├── batch.cjs.map
+│   │   ├── batch.d.cts
+│   │   ├── batch.d.ts
+│   │   ├── batch.js
+│   │   ├── batch.js.map
+│   │   ├── better-sqlite3
+│   │   ├── bun-sql
+│   │   ├── bun-sqlite
+│   │   ├── cache
+│   │   ├── casing.cjs
+│   │   ├── casing.cjs.map
+│   │   ├── casing.d.cts
+│   │   ├── casing.d.ts
+│   │   ├── casing.js
+│   │   ├── casing.js.map
+│   │   ├── column-builder.cjs
+│   │   ├── column-builder.cjs.map
+│   │   ├── column-builder.d.cts
+│   │   ├── column-builder.d.ts
+│   │   ├── column-builder.js
+│   │   ├── column-builder.js.map
+│   │   ├── column.cjs
+│   │   ├── column.cjs.map
+│   │   ├── column.d.cts
+│   │   ├── column.d.ts
+│   │   ├── column.js
+│   │   ├── column.js.map
+│   │   ├── d1
+│   │   ├── durable-sqlite
+│   │   ├── entity.cjs
+│   │   ├── entity.cjs.map
+│   │   ├── entity.d.cts
+│   │   ├── entity.d.ts
+│   │   ├── entity.js
+│   │   ├── entity.js.map
+│   │   ├── errors
+│   │   ├── errors.cjs
+│   │   ├── errors.cjs.map
+│   │   ├── errors.d.cts
+│   │   ├── errors.d.ts
+│   │   ├── errors.js
+│   │   ├── errors.js.map
+│   │   ├── expo-sqlite
+│   │   ├── gel
+│   │   ├── gel-core
+│   │   ├── index.cjs
+│   │   ├── index.cjs.map
+│   │   ├── index.d.cts
+│   │   ├── index.d.ts
+│   │   ├── index.js
+│   │   ├── index.js.map
+│   │   ├── knex
+│   │   ├── kysely
+│   │   ├── libsql
+│   │   ├── logger.cjs
+│   │   ├── logger.cjs.map
+│   │   ├── logger.d.cts
+│   │   ├── logger.d.ts
+│   │   ├── logger.js
+│   │   ├── logger.js.map
+│   │   ├── migrator.cjs
+│   │   ├── migrator.cjs.map
+│   │   ├── migrator.d.cts
+│   │   ├── migrator.d.ts
+│   │   ├── migrator.js
+│   │   ├── migrator.js.map
+│   │   ├── mysql2
+│   │   ├── mysql-core
+│   │   ├── mysql-proxy
+│   │   ├── neon
+│   │   ├── neon-http
+│   │   ├── neon-serverless
+│   │   ├── node-postgres
+│   │   ├── operations.cjs
+│   │   ├── operations.cjs.map
+│   │   ├── operations.d.cts
+│   │   ├── operations.d.ts
+│   │   ├── operations.js
+│   │   ├── operations.js.map
+│   │   ├── op-sqlite
+│   │   ├── package.json
+│   │   ├── pg-core
+│   │   ├── pglite
+│   │   ├── pg-proxy
+│   │   ├── planetscale-serverless
+│   │   ├── postgres-js
+│   │   ├── primary-key.cjs
+│   │   ├── primary-key.cjs.map
+│   │   ├── primary-key.d.cts
+│   │   ├── primary-key.d.ts
+│   │   ├── primary-key.js
+│   │   ├── primary-key.js.map
+│   │   ├── prisma
+│   │   ├── query-builders
+│   │   ├── query-promise.cjs
+│   │   ├── query-promise.cjs.map
+│   │   ├── query-promise.d.cts
+│   │   ├── query-promise.d.ts
+│   │   ├── query-promise.js
+│   │   ├── query-promise.js.map
+│   │   ├── README.md
+│   │   ├── relations.cjs
+│   │   ├── relations.cjs.map
+│   │   ├── relations.d.cts
+│   │   ├── relations.d.ts
+│   │   ├── relations.js
+│   │   ├── relations.js.map
+│   │   ├── runnable-query.cjs
+│   │   ├── runnable-query.cjs.map
+│   │   ├── runnable-query.d.cts
+│   │   ├── runnable-query.d.ts
+│   │   ├── runnable-query.js
+│   │   ├── runnable-query.js.map
+│   │   ├── selection-proxy.cjs
+│   │   ├── selection-proxy.cjs.map
+│   │   ├── selection-proxy.d.cts
+│   │   ├── selection-proxy.d.ts
+│   │   ├── selection-proxy.js
+│   │   ├── selection-proxy.js.map
+│   │   ├── session.cjs
+│   │   ├── session.cjs.map
+│   │   ├── session.d.cts
+│   │   ├── session.d.ts
+│   │   ├── session.js
+│   │   ├── session.js.map
+│   │   ├── singlestore
+│   │   ├── singlestore-core
+│   │   ├── singlestore-proxy
+│   │   ├── sql
+│   │   ├── sqlite-core
+│   │   ├── sqlite-proxy
+│   │   ├── sql-js
+│   │   ├── subquery.cjs
+│   │   ├── subquery.cjs.map
+│   │   ├── subquery.d.cts
+│   │   ├── subquery.d.ts
+│   │   ├── subquery.js
+│   │   ├── subquery.js.map
+│   │   ├── supabase
+│   │   ├── table.cjs
+│   │   ├── table.cjs.map
+│   │   ├── table.d.cts
+│   │   ├── table.d.ts
+│   │   ├── table.js
+│   │   ├── table.js.map
+│   │   ├── table.utils.cjs
+│   │   ├── table.utils.cjs.map
+│   │   ├── table.utils.d.cts
+│   │   ├── table.utils.d.ts
+│   │   ├── table.utils.js
+│   │   ├── table.utils.js.map
+│   │   ├── tidb-serverless
+│   │   ├── tracing.cjs
+│   │   ├── tracing.cjs.map
+│   │   ├── tracing.d.cts
+│   │   ├── tracing.d.ts
+│   │   ├── tracing.js
+│   │   ├── tracing.js.map
+│   │   ├── tracing-utils.cjs
+│   │   ├── tracing-utils.cjs.map
+│   │   ├── tracing-utils.d.cts
+│   │   ├── tracing-utils.d.ts
+│   │   ├── tracing-utils.js
+│   │   ├── tracing-utils.js.map
+│   │   ├── utils.cjs
+│   │   ├── utils.cjs.map
+│   │   ├── utils.d.cts
+│   │   ├── utils.d.ts
+│   │   ├── utils.js
+│   │   ├── utils.js.map
+│   │   ├── vercel-postgres
+│   │   ├── version.cjs
+│   │   ├── version.cjs.map
+│   │   ├── version.d.cts
+│   │   ├── version.d.ts
+│   │   ├── version.js
+│   │   ├── version.js.map
+│   │   ├── view-common.cjs
+│   │   ├── view-common.cjs.map
+│   │   ├── view-common.d.cts
+│   │   ├── view-common.d.ts
+│   │   ├── view-common.js
+│   │   ├── view-common.js.map
+│   │   └── xata-http
+│   ├── @drizzle-team
+│   │   └── brocli
+│   ├── drizzle-zod
+│   │   ├── column.d.cts
+│   │   ├── column.d.mts
+│   │   ├── column.d.ts
+│   │   ├── column.types.d.cts
+│   │   ├── column.types.d.mts
+│   │   ├── column.types.d.ts
+│   │   ├── constants.d.cts
+│   │   ├── constants.d.mts
+│   │   ├── constants.d.ts
+│   │   ├── index.cjs
+│   │   ├── index.cjs.map
+│   │   ├── index.d.cts
+│   │   ├── index.d.mts
+│   │   ├── index.d.ts
+│   │   ├── index.mjs
+│   │   ├── index.mjs.map
+│   │   ├── package.json
+│   │   ├── README.md
+│   │   ├── schema.d.cts
+│   │   ├── schema.d.mts
+│   │   ├── schema.d.ts
+│   │   ├── schema.types.d.cts
+│   │   ├── schema.types.d.mts
+│   │   ├── schema.types.d.ts
+│   │   ├── schema.types.internal.d.cts
+│   │   ├── schema.types.internal.d.mts
+│   │   ├── schema.types.internal.d.ts
+│   │   ├── utils.d.cts
+│   │   ├── utils.d.mts
+│   │   └── utils.d.ts
+│   ├── dunder-proto
+│   │   ├── CHANGELOG.md
+│   │   ├── .eslintrc
+│   │   ├── get.d.ts
+│   │   ├── get.js
+│   │   ├── .github
+│   │   ├── LICENSE
+│   │   ├── .nycrc
+│   │   ├── package.json
+│   │   ├── README.md
+│   │   ├── set.d.ts
+│   │   ├── set.js
+│   │   ├── test
+│   │   └── tsconfig.json
+│   ├── ee-first
+│   │   ├── index.js
+│   │   ├── LICENSE
+│   │   ├── package.json
+│   │   └── README.md
+│   ├── electron-to-chromium
+│   │   ├── chromium-versions.js
+│   │   ├── chromium-versions.json
+│   │   ├── full-chromium-versions.js
+│   │   ├── full-chromium-versions.json
+│   │   ├── full-versions.js
+│   │   ├── full-versions.json
+│   │   ├── index.js
+│   │   ├── LICENSE
+│   │   ├── package.json
+│   │   ├── README.md
+│   │   ├── versions.js
+│   │   └── versions.json
+│   ├── @emnapi
+│   ├── emoji-regex
+│   │   ├── es2015
+│   │   ├── index.d.ts
+│   │   ├── index.js
+│   │   ├── LICENSE-MIT.txt
+│   │   ├── package.json
+│   │   ├── README.md
+│   │   └── text.js
+│   ├── encodeurl
+│   │   ├── index.js
+│   │   ├── LICENSE
+│   │   ├── package.json
+│   │   └── README.md
+│   ├── end-of-stream
+│   │   ├── index.js
+│   │   ├── LICENSE
+│   │   ├── package.json
+│   │   └── README.md
+│   ├── env-paths
+│   │   ├── index.d.ts
+│   │   ├── index.js
+│   │   ├── license
+│   │   ├── package.json
+│   │   └── readme.md
+│   ├── error-ex
+│   │   ├── index.js
+│   │   ├── LICENSE
+│   │   ├── package.json
+│   │   └── README.md
+│   ├── @esbuild
+│   │   └── linux-x64
+│   ├── esbuild
+│   │   ├── bin
+│   │   ├── install.js
+│   │   ├── lib
+│   │   ├── LICENSE.md
+│   │   ├── package.json
+│   │   └── README.md
+│   ├── @esbuild-kit
+│   │   ├── core-utils
+│   │   └── esm-loader
+│   ├── esbuild-register
+│   │   ├── dist
+│   │   ├── LICENSE
+│   │   ├── loader.js
+│   │   ├── package.json
+│   │   ├── README.md
+│   │   └── register.js
+│   ├── escalade
+│   │   ├── dist
+│   │   ├── index.d.mts
+│   │   ├── index.d.ts
+│   │   ├── license
+│   │   ├── package.json
+│   │   ├── readme.md
+│   │   └── sync
+│   ├── escape-html
+│   │   ├── index.js
+│   │   ├── LICENSE
+│   │   ├── package.json
+│   │   └── Readme.md
+│   ├── escodegen
+│   │   ├── bin
+│   │   ├── escodegen.js
+│   │   ├── LICENSE.BSD
+│   │   ├── package.json
+│   │   └── README.md
+│   ├── es-define-property
+│   │   ├── CHANGELOG.md
+│   │   ├── .eslintrc
+│   │   ├── .github
+│   │   ├── index.d.ts
+│   │   ├── index.js
+│   │   ├── LICENSE
+│   │   ├── .nycrc
+│   │   ├── package.json
+│   │   ├── README.md
+│   │   ├── test
+│   │   └── tsconfig.json
+│   ├── es-errors
+│   │   ├── CHANGELOG.md
+│   │   ├── .eslintrc
+│   │   ├── eval.d.ts
+│   │   ├── eval.js
+│   │   ├── .github
+│   │   ├── index.d.ts
+│   │   ├── index.js
+│   │   ├── LICENSE
+│   │   ├── package.json
+│   │   ├── range.d.ts
+│   │   ├── range.js
+│   │   ├── README.md
+│   │   ├── ref.d.ts
+│   │   ├── ref.js
+│   │   ├── syntax.d.ts
+│   │   ├── syntax.js
+│   │   ├── test
+│   │   ├── tsconfig.json
+│   │   ├── type.d.ts
+│   │   ├── type.js
+│   │   ├── uri.d.ts
+│   │   └── uri.js
+│   ├── es-object-atoms
+│   │   ├── CHANGELOG.md
+│   │   ├── .eslintrc
+│   │   ├── .github
+│   │   ├── index.d.ts
+│   │   ├── index.js
+│   │   ├── isObject.d.ts
+│   │   ├── isObject.js
+│   │   ├── LICENSE
+│   │   ├── package.json
+│   │   ├── README.md
+│   │   ├── RequireObjectCoercible.d.ts
+│   │   ├── RequireObjectCoercible.js
+│   │   ├── test
+│   │   ├── ToObject.d.ts
+│   │   ├── ToObject.js
+│   │   └── tsconfig.json
+│   ├── esprima
+│   │   ├── bin
+│   │   ├── ChangeLog
+│   │   ├── dist
+│   │   ├── LICENSE.BSD
+│   │   ├── package.json
+│   │   └── README.md
+│   ├── es-set-tostringtag
+│   │   ├── CHANGELOG.md
+│   │   ├── .eslintrc
+│   │   ├── index.d.ts
+│   │   ├── index.js
+│   │   ├── LICENSE
+│   │   ├── .nycrc
+│   │   ├── package.json
+│   │   ├── README.md
+│   │   ├── test
+│   │   └── tsconfig.json
+│   ├── estraverse
+│   │   ├── estraverse.js
+│   │   ├── gulpfile.js
+│   │   ├── .jshintrc
+│   │   ├── LICENSE.BSD
+│   │   ├── package.json
+│   │   └── README.md
+│   ├── esutils
+│   │   ├── lib
+│   │   ├── LICENSE.BSD
+│   │   ├── package.json
+│   │   └── README.md
+│   ├── etag
+│   │   ├── HISTORY.md
+│   │   ├── index.js
+│   │   ├── LICENSE
+│   │   ├── package.json
+│   │   └── README.md
+│   ├── express
+│   │   ├── History.md
+│   │   ├── index.js
+│   │   ├── lib
+│   │   ├── LICENSE
+│   │   ├── node_modules
+│   │   ├── package.json
+│   │   └── Readme.md
+│   ├── extract-zip
+│   │   ├── cli.js
+│   │   ├── index.d.ts
+│   │   ├── index.js
+│   │   ├── LICENSE
+│   │   ├── package.json
+│   │   └── readme.md
+│   ├── fast-fifo
+│   │   ├── fixed-size.js
+│   │   ├── index.js
+│   │   ├── LICENSE
+│   │   ├── package.json
+│   │   └── README.md
+│   ├── fdir
+│   │   ├── dist
+│   │   ├── LICENSE
+│   │   ├── package.json
+│   │   └── README.md
+│   ├── fd-slicer
+│   │   ├── CHANGELOG.md
+│   │   ├── index.js
+│   │   ├── LICENSE
+│   │   ├── .npmignore
+│   │   ├── package.json
+│   │   ├── README.md
+│   │   ├── test
+│   │   └── .travis.yml
+│   ├── fetch-blob
+│   │   ├── file.d.ts
+│   │   ├── file.js
+│   │   ├── from.d.ts
+│   │   ├── from.js
+│   │   ├── index.d.ts
+│   │   ├── index.js
+│   │   ├── LICENSE
+│   │   ├── package.json
+│   │   ├── README.md
+│   │   └── streams.cjs
+│   ├── finalhandler
+│   │   ├── HISTORY.md
+│   │   ├── index.js
+│   │   ├── LICENSE
+│   │   ├── node_modules
+│   │   ├── package.json
+│   │   ├── README.md
+│   │   └── SECURITY.md
+│   ├── @floating-ui
+│   ├── follow-redirects
+│   │   ├── debug.js
+│   │   ├── http.js
+│   │   ├── https.js
+│   │   ├── index.js
+│   │   ├── LICENSE
+│   │   ├── package.json
+│   │   └── README.md
+│   ├── form-data
+│   │   ├── index.d.ts
+│   │   ├── lib
+│   │   ├── License
+│   │   ├── package.json
+│   │   ├── Readme.md
+│   │   └── README.md.bak
+│   ├── formdata-polyfill
+│   │   ├── esm.min.d.ts
+│   │   ├── esm.min.js
+│   │   ├── FormData.js
+│   │   ├── formdata.min.js
+│   │   ├── formdata-to-blob.js
+│   │   ├── LICENSE
+│   │   ├── package.json
+│   │   └── README.md
+│   ├── forwarded
+│   │   ├── HISTORY.md
+│   │   ├── index.js
+│   │   ├── LICENSE
+│   │   ├── package.json
+│   │   └── README.md
+│   ├── fresh
+│   │   ├── HISTORY.md
+│   │   ├── index.js
+│   │   ├── LICENSE
+│   │   ├── package.json
+│   │   └── README.md
+│   ├── fs-extra
+│   │   ├── lib
+│   │   ├── LICENSE
+│   │   ├── package.json
+│   │   └── README.md
+│   ├── function-bind
+│   │   ├── CHANGELOG.md
+│   │   ├── .eslintrc
+│   │   ├── .github
+│   │   ├── implementation.js
+│   │   ├── index.js
+│   │   ├── LICENSE
+│   │   ├── .nycrc
+│   │   ├── package.json
+│   │   ├── README.md
+│   │   └── test
+│   ├── gensync
+│   │   ├── index.js
+│   │   ├── index.js.flow
+│   │   ├── LICENSE
+│   │   ├── package.json
+│   │   ├── README.md
+│   │   └── test
+│   ├── get-caller-file
+│   │   ├── index.d.ts
+│   │   ├── index.js
+│   │   ├── index.js.map
+│   │   ├── LICENSE.md
+│   │   ├── package.json
+│   │   └── README.md
+│   ├── get-intrinsic
+│   │   ├── CHANGELOG.md
+│   │   ├── .eslintrc
+│   │   ├── .github
+│   │   ├── index.js
+│   │   ├── LICENSE
+│   │   ├── .nycrc
+│   │   ├── package.json
+│   │   ├── README.md
+│   │   └── test
+│   ├── get-proto
+│   │   ├── CHANGELOG.md
+│   │   ├── .eslintrc
+│   │   ├── .github
+│   │   ├── index.d.ts
+│   │   ├── index.js
+│   │   ├── LICENSE
+│   │   ├── .nycrc
+│   │   ├── Object.getPrototypeOf.d.ts
+│   │   ├── Object.getPrototypeOf.js
+│   │   ├── package.json
+│   │   ├── README.md
+│   │   ├── Reflect.getPrototypeOf.d.ts
+│   │   ├── Reflect.getPrototypeOf.js
+│   │   ├── test
+│   │   └── tsconfig.json
+│   ├── get-stream
+│   │   ├── buffer-stream.js
+│   │   ├── index.d.ts
+│   │   ├── index.js
+│   │   ├── license
+│   │   ├── package.json
+│   │   └── readme.md
+│   ├── get-tsconfig
+│   │   ├── dist
+│   │   ├── LICENSE
+│   │   ├── package.json
+│   │   └── README.md
+│   ├── get-uri
+│   │   ├── dist
+│   │   ├── LICENSE
+│   │   ├── node_modules
+│   │   ├── package.json
+│   │   └── README.md
+│   ├── globals
+│   │   ├── globals.json
+│   │   ├── index.js
+│   │   ├── license
+│   │   ├── package.json
+│   │   └── readme.md
+│   ├── gopd
+│   │   ├── CHANGELOG.md
+│   │   ├── .eslintrc
+│   │   ├── .github
+│   │   ├── gOPD.d.ts
+│   │   ├── gOPD.js
+│   │   ├── index.d.ts
+│   │   ├── index.js
+│   │   ├── LICENSE
+│   │   ├── package.json
+│   │   ├── README.md
+│   │   ├── test
+│   │   └── tsconfig.json
+│   ├── graceful-fs
+│   │   ├── clone.js
+│   │   ├── graceful-fs.js
+│   │   ├── legacy-streams.js
+│   │   ├── LICENSE
+│   │   ├── package.json
+│   │   ├── polyfills.js
+│   │   └── README.md
+│   ├── hasown
+│   │   ├── CHANGELOG.md
+│   │   ├── .eslintrc
+│   │   ├── .github
+│   │   ├── index.d.ts
+│   │   ├── index.js
+│   │   ├── LICENSE
+│   │   ├── .nycrc
+│   │   ├── package.json
+│   │   ├── README.md
+│   │   └── tsconfig.json
+│   ├── has-property-descriptors
+│   │   ├── CHANGELOG.md
+│   │   ├── .eslintrc
+│   │   ├── .github
+│   │   ├── index.js
+│   │   ├── LICENSE
+│   │   ├── .nycrc
+│   │   ├── package.json
+│   │   ├── README.md
+│   │   └── test
+│   ├── has-symbols
+│   │   ├── CHANGELOG.md
+│   │   ├── .eslintrc
+│   │   ├── .github
+│   │   ├── index.d.ts
+│   │   ├── index.js
+│   │   ├── LICENSE
+│   │   ├── .nycrc
+│   │   ├── package.json
+│   │   ├── README.md
+│   │   ├── shams.d.ts
+│   │   ├── shams.js
+│   │   ├── test
+│   │   └── tsconfig.json
+│   ├── has-tostringtag
+│   │   ├── CHANGELOG.md
+│   │   ├── .eslintrc
+│   │   ├── .github
+│   │   ├── index.d.ts
+│   │   ├── index.js
+│   │   ├── LICENSE
+│   │   ├── .nycrc
+│   │   ├── package.json
+│   │   ├── README.md
+│   │   ├── shams.d.ts
+│   │   ├── shams.js
+│   │   ├── test
+│   │   └── tsconfig.json
+│   ├── @hookform
+│   │   └── resolvers
+│   ├── http-errors
+│   │   ├── HISTORY.md
+│   │   ├── index.js
+│   │   ├── LICENSE
+│   │   ├── package.json
+│   │   └── README.md
+│   ├── http-proxy-agent
+│   │   ├── dist
+│   │   ├── LICENSE
+│   │   ├── package.json
+│   │   └── README.md
+│   ├── https-proxy-agent
+│   │   ├── dist
+│   │   ├── LICENSE
+│   │   ├── package.json
+│   │   └── README.md
+│   ├── iconv-lite
+│   │   ├── Changelog.md
+│   │   ├── encodings
+│   │   ├── lib
+│   │   ├── LICENSE
+│   │   ├── package.json
+│   │   └── README.md
+│   ├── @img
+│   ├── import-fresh
+│   │   ├── index.d.ts
+│   │   ├── index.js
+│   │   ├── license
+│   │   ├── package.json
+│   │   └── readme.md
+│   ├── inherits
+│   │   ├── inherits_browser.js
+│   │   ├── inherits.js
+│   │   ├── LICENSE
+│   │   ├── package.json
+│   │   └── README.md
+│   ├── ip-address
+│   │   ├── dist
+│   │   ├── LICENSE
+│   │   ├── package.json
+│   │   ├── README.md
+│   │   └── src
+│   ├── ipaddr.js
+│   │   ├── ipaddr.min.js
+│   │   ├── lib
+│   │   ├── LICENSE
+│   │   ├── package.json
+│   │   └── README.md
+│   ├── @isaacs
+│   ├── is-arrayish
+│   │   ├── .editorconfig
+│   │   ├── index.js
+│   │   ├── .istanbul.yml
+│   │   ├── LICENSE
+│   │   ├── .npmignore
+│   │   ├── package.json
+│   │   ├── README.md
+│   │   └── .travis.yml
+│   ├── is-fullwidth-code-point
+│   │   ├── index.d.ts
+│   │   ├── index.js
+│   │   ├── license
+│   │   ├── package.json
+│   │   └── readme.md
+│   ├── @jridgewell
+│   │   ├── gen-mapping
+│   │   ├── resolve-uri
+│   │   ├── set-array
+│   │   ├── sourcemap-codec
+│   │   └── trace-mapping
+│   ├── jsbn
+│   │   ├── CHANGELOG.md
+│   │   ├── example.html
+│   │   ├── example.js
+│   │   ├── index.js
+│   │   ├── LICENSE
+│   │   ├── .npmignore
+│   │   ├── package.json
+│   │   ├── README.md
+│   │   └── test
+│   ├── jsesc
+│   │   ├── bin
+│   │   ├── jsesc.js
+│   │   ├── LICENSE-MIT.txt
+│   │   ├── man
+│   │   ├── package.json
+│   │   └── README.md
+│   ├── json5
+│   │   ├── dist
+│   │   ├── lib
+│   │   ├── LICENSE.md
+│   │   ├── package.json
+│   │   └── README.md
+│   ├── jsonfile
+│   │   ├── CHANGELOG.md
+│   │   ├── index.js
+│   │   ├── LICENSE
+│   │   ├── package.json
+│   │   ├── README.md
+│   │   └── utils.js
+│   ├── json-parse-even-better-errors
+│   │   ├── CHANGELOG.md
+│   │   ├── index.js
+│   │   ├── LICENSE.md
+│   │   ├── package.json
+│   │   └── README.md
+│   ├── js-tokens
+│   │   ├── CHANGELOG.md
+│   │   ├── index.js
+│   │   ├── LICENSE
+│   │   ├── package.json
+│   │   └── README.md
+│   ├── js-yaml
+│   │   ├── bin
+│   │   ├── CHANGELOG.md
+│   │   ├── dist
+│   │   ├── index.js
+│   │   ├── lib
+│   │   ├── LICENSE
+│   │   ├── package.json
+│   │   └── README.md
+│   ├── lines-and-columns
+│   │   ├── build
+│   │   ├── LICENSE
+│   │   ├── package.json
+│   │   └── README.md
+│   ├── lodash.castarray
+│   │   ├── index.js
+│   │   ├── LICENSE
+│   │   ├── package.json
+│   │   └── README.md
+│   ├── lodash.isplainobject
+│   │   ├── index.js
+│   │   ├── LICENSE
+│   │   ├── package.json
+│   │   └── README.md
+│   ├── lodash.merge
+│   │   ├── index.js
+│   │   ├── LICENSE
+│   │   ├── package.json
+│   │   └── README.md
+│   ├── loose-envify
+│   │   ├── cli.js
+│   │   ├── custom.js
+│   │   ├── index.js
+│   │   ├── LICENSE
+│   │   ├── loose-envify.js
+│   │   ├── package.json
+│   │   ├── README.md
+│   │   └── replace.js
+│   ├── lru-cache
+│   │   ├── index.js
+│   │   ├── LICENSE
+│   │   ├── package.json
+│   │   └── README.md
+│   ├── lucide-react
+│   │   ├── dist
+│   │   ├── dynamic.d.ts
+│   │   ├── dynamicIconImports.d.ts
+│   │   ├── dynamicIconImports.mjs
+│   │   ├── dynamic.mjs
+│   │   ├── LICENSE
+│   │   ├── package.json
+│   │   └── README.md
+│   ├── magic-string
+│   │   ├── dist
+│   │   ├── LICENSE
+│   │   ├── package.json
+│   │   └── README.md
+│   ├── @mapbox
+│   ├── math-intrinsics
+│   │   ├── abs.d.ts
+│   │   ├── abs.js
+│   │   ├── CHANGELOG.md
+│   │   ├── constants
+│   │   ├── .eslintrc
+│   │   ├── floor.d.ts
+│   │   ├── floor.js
+│   │   ├── .github
+│   │   ├── isFinite.d.ts
+│   │   ├── isFinite.js
+│   │   ├── isInteger.d.ts
+│   │   ├── isInteger.js
+│   │   ├── isNaN.d.ts
+│   │   ├── isNaN.js
+│   │   ├── isNegativeZero.d.ts
+│   │   ├── isNegativeZero.js
+│   │   ├── LICENSE
+│   │   ├── max.d.ts
+│   │   ├── max.js
+│   │   ├── min.d.ts
+│   │   ├── min.js
+│   │   ├── mod.d.ts
+│   │   ├── mod.js
+│   │   ├── package.json
+│   │   ├── pow.d.ts
+│   │   ├── pow.js
+│   │   ├── README.md
+│   │   ├── round.d.ts
+│   │   ├── round.js
+│   │   ├── sign.d.ts
+│   │   ├── sign.js
+│   │   ├── test
+│   │   └── tsconfig.json
+│   ├── media-typer
+│   │   ├── HISTORY.md
+│   │   ├── index.js
+│   │   ├── LICENSE
+│   │   ├── package.json
+│   │   └── README.md
+│   ├── merge-descriptors
+│   │   ├── HISTORY.md
+│   │   ├── index.js
+│   │   ├── LICENSE
+│   │   ├── package.json
+│   │   └── README.md
+│   ├── methods
+│   │   ├── HISTORY.md
+│   │   ├── index.js
+│   │   ├── LICENSE
+│   │   ├── package.json
+│   │   └── README.md
+│   ├── mime
+│   │   ├── CHANGELOG.md
+│   │   ├── cli.js
+│   │   ├── LICENSE
+│   │   ├── mime.js
+│   │   ├── .npmignore
+│   │   ├── package.json
+│   │   ├── README.md
+│   │   ├── src
+│   │   └── types.json
+│   ├── mime-db
+│   │   ├── db.json
+│   │   ├── HISTORY.md
+│   │   ├── index.js
+│   │   ├── LICENSE
+│   │   ├── package.json
+│   │   └── README.md
+│   ├── mime-types
+│   │   ├── HISTORY.md
+│   │   ├── index.js
+│   │   ├── LICENSE
+│   │   ├── package.json
+│   │   └── README.md
+│   ├── mitt
+│   │   ├── dist
+│   │   ├── index.d.ts
+│   │   ├── LICENSE
+│   │   ├── package.json
+│   │   └── README.md
+│   ├── modern-screenshot
+│   │   ├── dist
+│   │   ├── LICENSE
+│   │   ├── package.json
+│   │   ├── README.md
+│   │   ├── README.zh-CN.md
+│   │   └── worker.d.ts
+│   ├── ms
+│   │   ├── index.js
+│   │   ├── license.md
+│   │   ├── package.json
+│   │   └── readme.md
+│   ├── nanoid
+│   │   ├── async
+│   │   ├── bin
+│   │   ├── index.browser.cjs
+│   │   ├── index.browser.js
+│   │   ├── index.cjs
+│   │   ├── index.d.cts
+│   │   ├── index.d.ts
+│   │   ├── index.js
+│   │   ├── LICENSE
+│   │   ├── nanoid.js
+│   │   ├── non-secure
+│   │   ├── package.json
+│   │   ├── README.md
+│   │   └── url-alphabet
+│   ├── negotiator
+│   │   ├── HISTORY.md
+│   │   ├── index.js
+│   │   ├── lib
+│   │   ├── LICENSE
+│   │   ├── package.json
+│   │   └── README.md
+│   ├── @neondatabase
+│   ├── netmask
+│   │   ├── CHANGELOG.md
+│   │   ├── CREDITS.md
+│   │   ├── example
+│   │   ├── lib
+│   │   ├── package.json
+│   │   ├── README.md
+│   │   ├── test
+│   │   └── tests
+│   ├── node-domexception
+│   │   ├── .history
+│   │   ├── index.js
+│   │   ├── LICENSE
+│   │   ├── package.json
+│   │   └── README.md
+│   ├── node-fetch
+│   │   ├── LICENSE.md
+│   │   ├── package.json
+│   │   ├── README.md
+│   │   ├── src
+│   │   └── @types
+│   ├── @nodelib
+│   ├── node-releases
+│   │   ├── data
+│   │   ├── LICENSE
+│   │   ├── package.json
+│   │   └── README.md
+│   ├── @notionhq
+│   ├── object-assign
+│   │   ├── index.js
+│   │   ├── license
+│   │   ├── package.json
+│   │   └── readme.md
+│   ├── object-inspect
+│   │   ├── CHANGELOG.md
+│   │   ├── .eslintrc
+│   │   ├── example
+│   │   ├── .github
+│   │   ├── index.js
+│   │   ├── LICENSE
+│   │   ├── .nycrc
+│   │   ├── package.json
+│   │   ├── package-support.json
+│   │   ├── readme.markdown
+│   │   ├── test
+│   │   ├── test-core-js.js
+│   │   └── util.inspect.js
+│   ├── once
+│   │   ├── LICENSE
+│   │   ├── once.js
+│   │   ├── package.json
+│   │   └── README.md
+│   ├── on-finished
+│   │   ├── HISTORY.md
+│   │   ├── index.js
+│   │   ├── LICENSE
+│   │   ├── package.json
+│   │   └── README.md
+│   ├── .package-lock.json
+│   ├── pac-proxy-agent
+│   │   ├── dist
+│   │   ├── LICENSE
+│   │   ├── package.json
+│   │   └── README.md
+│   ├── pac-resolver
+│   │   ├── dist
+│   │   ├── LICENSE
+│   │   ├── package.json
+│   │   └── README.md
+│   ├── parent-module
+│   │   ├── index.js
+│   │   ├── license
+│   │   ├── package.json
+│   │   └── readme.md
+│   ├── parse-json
+│   │   ├── index.js
+│   │   ├── license
+│   │   ├── package.json
+│   │   └── readme.md
+│   ├── parseurl
+│   │   ├── HISTORY.md
+│   │   ├── index.js
+│   │   ├── LICENSE
+│   │   ├── package.json
+│   │   └── README.md
+│   ├── path-to-regexp
+│   │   ├── index.js
+│   │   ├── LICENSE
+│   │   ├── package.json
+│   │   └── Readme.md
+│   ├── pend
+│   │   ├── index.js
+│   │   ├── LICENSE
+│   │   ├── package.json
+│   │   ├── README.md
+│   │   └── test.js
+│   ├── picocolors
+│   │   ├── LICENSE
+│   │   ├── package.json
+│   │   ├── picocolors.browser.js
+│   │   ├── picocolors.d.ts
+│   │   ├── picocolors.js
+│   │   ├── README.md
+│   │   └── types.d.ts
+│   ├── picomatch
+│   │   ├── index.js
+│   │   ├── lib
+│   │   ├── LICENSE
+│   │   ├── package.json
+│   │   ├── posix.js
+│   │   └── README.md
+│   ├── @pkgjs
+│   ├── postcss
+│   │   ├── lib
+│   │   ├── LICENSE
+│   │   ├── package.json
+│   │   └── README.md
+│   ├── postcss-selector-parser
+│   │   ├── API.md
+│   │   ├── CHANGELOG.md
+│   │   ├── dist
+│   │   ├── LICENSE-MIT
+│   │   ├── package.json
+│   │   ├── postcss-selector-parser.d.ts
+│   │   └── README.md
+│   ├── progress
+│   │   ├── CHANGELOG.md
+│   │   ├── index.js
+│   │   ├── lib
+│   │   ├── LICENSE
+│   │   ├── Makefile
+│   │   ├── package.json
+│   │   └── Readme.md
+│   ├── prop-types
+│   │   ├── checkPropTypes.js
+│   │   ├── factory.js
+│   │   ├── factoryWithThrowingShims.js
+│   │   ├── factoryWithTypeCheckers.js
+│   │   ├── index.js
+│   │   ├── lib
+│   │   ├── LICENSE
+│   │   ├── node_modules
+│   │   ├── package.json
+│   │   ├── prop-types.js
+│   │   ├── prop-types.min.js
+│   │   └── README.md
+│   ├── proxy-addr
+│   │   ├── HISTORY.md
+│   │   ├── index.js
+│   │   ├── LICENSE
+│   │   ├── package.json
+│   │   └── README.md
+│   ├── proxy-agent
+│   │   ├── dist
+│   │   ├── LICENSE
+│   │   ├── node_modules
+│   │   ├── package.json
+│   │   └── README.md
+│   ├── proxy-from-env
+│   │   ├── .eslintrc
+│   │   ├── index.js
+│   │   ├── LICENSE
+│   │   ├── package.json
+│   │   ├── README.md
+│   │   ├── test.js
+│   │   └── .travis.yml
+│   ├── pump
+│   │   ├── .github
+│   │   ├── index.js
+│   │   ├── LICENSE
+│   │   ├── package.json
+│   │   ├── README.md
+│   │   ├── SECURITY.md
+│   │   ├── test-browser.js
+│   │   ├── test-node.js
+│   │   └── .travis.yml
+│   ├── @puppeteer
+│   │   └── browsers
+│   ├── puppeteer
+│   │   ├── install.mjs
+│   │   ├── lib
+│   │   ├── package.json
+│   │   ├── README.md
+│   │   └── src
+│   ├── puppeteer-core
+│   │   ├── lib
+│   │   ├── package.json
+│   │   ├── README.md
+│   │   └── src
+│   ├── @qiskit
+│   ├── qs
+│   │   ├── CHANGELOG.md
+│   │   ├── dist
+│   │   ├── .editorconfig
+│   │   ├── .eslintrc
+│   │   ├── .github
+│   │   ├── lib
+│   │   ├── LICENSE.md
+│   │   ├── .nycrc
+│   │   ├── package.json
+│   │   ├── README.md
+│   │   └── test
+│   ├── @radix-ui
+│   ├── range-parser
+│   │   ├── HISTORY.md
+│   │   ├── index.js
+│   │   ├── LICENSE
+│   │   ├── package.json
+│   │   └── README.md
+│   ├── raw-body
+│   │   ├── HISTORY.md
+│   │   ├── index.d.ts
+│   │   ├── index.js
+│   │   ├── LICENSE
+│   │   ├── package.json
+│   │   ├── README.md
+│   │   └── SECURITY.md
+│   ├── react
+│   │   ├── cjs
+│   │   ├── compiler-runtime.js
+│   │   ├── index.js
+│   │   ├── jsx-dev-runtime.js
+│   │   ├── jsx-dev-runtime.react-server.js
+│   │   ├── jsx-runtime.js
+│   │   ├── jsx-runtime.react-server.js
+│   │   ├── LICENSE
+│   │   ├── package.json
+│   │   ├── react.react-server.js
+│   │   └── README.md
+│   ├── react-dom
+│   │   ├── cjs
+│   │   ├── client.js
+│   │   ├── client.react-server.js
+│   │   ├── index.js
+│   │   ├── LICENSE
+│   │   ├── package.json
+│   │   ├── profiling.js
+│   │   ├── profiling.react-server.js
+│   │   ├── react-dom.react-server.js
+│   │   ├── README.md
+│   │   ├── server.browser.js
+│   │   ├── server.bun.js
+│   │   ├── server.edge.js
+│   │   ├── server.js
+│   │   ├── server.node.js
+│   │   ├── server.react-server.js
+│   │   ├── static.browser.js
+│   │   ├── static.edge.js
+│   │   ├── static.js
+│   │   ├── static.node.js
+│   │   ├── static.react-server.js
+│   │   └── test-utils.js
+│   ├── react-hook-form
+│   │   ├── dist
+│   │   ├── LICENSE
+│   │   ├── package.json
+│   │   └── README.md
+│   ├── react-refresh
+│   │   ├── babel.js
+│   │   ├── cjs
+│   │   ├── LICENSE
+│   │   ├── package.json
+│   │   ├── README.md
+│   │   └── runtime.js
+│   ├── regexparam
+│   │   ├── dist
+│   │   ├── index.d.ts
+│   │   ├── license
+│   │   ├── package.json
+│   │   └── readme.md
+│   ├── @replit
+│   │   ├── vite-plugin-cartographer
+│   │   └── vite-plugin-runtime-error-modal
+│   ├── require-directory
+│   │   ├── index.js
+│   │   ├── .jshintrc
+│   │   ├── LICENSE
+│   │   ├── .npmignore
+│   │   ├── package.json
+│   │   ├── README.markdown
+│   │   └── .travis.yml
+│   ├── resolve-from
+│   │   ├── index.js
+│   │   ├── license
+│   │   ├── package.json
+│   │   └── readme.md
+│   ├── resolve-pkg-maps
+│   │   ├── dist
+│   │   ├── LICENSE
+│   │   ├── package.json
+│   │   └── README.md
+│   ├── @rolldown
+│   │   └── pluginutils
+│   ├── @rollup
+│   │   ├── rollup-linux-x64-gnu
+│   │   └── rollup-linux-x64-musl
+│   ├── rollup
+│   │   ├── dist
+│   │   ├── LICENSE.md
+│   │   ├── package.json
+│   │   └── README.md
+│   ├── safe-buffer
+│   │   ├── index.d.ts
+│   │   ├── index.js
+│   │   ├── LICENSE
+│   │   ├── package.json
+│   │   └── README.md
+│   ├── safer-buffer
+│   │   ├── dangerous.js
+│   │   ├── LICENSE
+│   │   ├── package.json
+│   │   ├── Porting-Buffer.md
+│   │   ├── Readme.md
+│   │   ├── safer.js
+│   │   └── tests.js
+│   ├── scheduler
+│   │   ├── cjs
+│   │   ├── index.js
+│   │   ├── index.native.js
+│   │   ├── LICENSE
+│   │   ├── package.json
+│   │   ├── README.md
+│   │   ├── unstable_mock.js
+│   │   └── unstable_post_task.js
+│   ├── semver
+│   │   ├── bin
+│   │   ├── LICENSE
+│   │   ├── package.json
+│   │   ├── range.bnf
+│   │   ├── README.md
+│   │   └── semver.js
+│   ├── send
+│   │   ├── HISTORY.md
+│   │   ├── index.js
+│   │   ├── LICENSE
+│   │   ├── node_modules
+│   │   ├── package.json
+│   │   ├── README.md
+│   │   └── SECURITY.md
+│   ├── @sendgrid
+│   ├── serve-static
+│   │   ├── HISTORY.md
+│   │   ├── index.js
+│   │   ├── LICENSE
+│   │   ├── package.json
+│   │   └── README.md
+│   ├── set-function-length
+│   │   ├── CHANGELOG.md
+│   │   ├── env.d.ts
+│   │   ├── env.js
+│   │   ├── .eslintrc
+│   │   ├── .github
+│   │   ├── index.d.ts
+│   │   ├── index.js
+│   │   ├── LICENSE
+│   │   ├── .nycrc
+│   │   ├── package.json
+│   │   ├── README.md
+│   │   └── tsconfig.json
+│   ├── setprototypeof
+│   │   ├── index.d.ts
+│   │   ├── index.js
+│   │   ├── LICENSE
+│   │   ├── package.json
+│   │   ├── README.md
+│   │   └── test
+│   ├── side-channel
+│   │   ├── CHANGELOG.md
+│   │   ├── .editorconfig
+│   │   ├── .eslintrc
+│   │   ├── .github
+│   │   ├── index.d.ts
+│   │   ├── index.js
+│   │   ├── LICENSE
+│   │   ├── .nycrc
+│   │   ├── package.json
+│   │   ├── README.md
+│   │   ├── test
+│   │   └── tsconfig.json
+│   ├── @slack
+│   ├── smart-buffer
+│   │   ├── build
+│   │   ├── docs
+│   │   ├── LICENSE
+│   │   ├── package.json
+│   │   ├── .prettierrc.yaml
+│   │   ├── README.md
+│   │   ├── .travis.yml
+│   │   └── typings
+│   ├── socks
+│   │   ├── build
+│   │   ├── docs
+│   │   ├── .eslintrc.cjs
+│   │   ├── LICENSE
+│   │   ├── package.json
+│   │   ├── .prettierrc.yaml
+│   │   ├── README.md
+│   │   └── typings
+│   ├── socks-proxy-agent
+│   │   ├── dist
+│   │   ├── LICENSE
+│   │   ├── package.json
+│   │   └── README.md
+│   ├── source-map
+│   │   ├── CHANGELOG.md
+│   │   ├── dist
+│   │   ├── lib
+│   │   ├── LICENSE
+│   │   ├── package.json
+│   │   ├── README.md
+│   │   ├── source-map.d.ts
+│   │   └── source-map.js
+│   ├── source-map-js
+│   │   ├── lib
+│   │   ├── LICENSE
+│   │   ├── package.json
+│   │   ├── README.md
+│   │   ├── source-map.d.ts
+│   │   └── source-map.js
+│   ├── source-map-support
+│   │   ├── browser-source-map-support.js
+│   │   ├── LICENSE.md
+│   │   ├── package.json
+│   │   ├── README.md
+│   │   ├── register-hook-require.js
+│   │   ├── register.js
+│   │   └── source-map-support.js
+│   ├── sprintf-js
+│   │   ├── CONTRIBUTORS.md
+│   │   ├── dist
+│   │   ├── LICENSE
+│   │   ├── package.json
+│   │   ├── README.md
+│   │   └── src
+│   ├── @standard-schema
+│   │   └── utils
+│   ├── statuses
+│   │   ├── codes.json
+│   │   ├── HISTORY.md
+│   │   ├── index.js
+│   │   ├── LICENSE
+│   │   ├── package.json
+│   │   └── README.md
+│   ├── @stitches
+│   ├── streamx
+│   │   ├── index.js
+│   │   ├── LICENSE
+│   │   ├── package.json
+│   │   └── README.md
+│   ├── string-width
+│   │   ├── index.d.ts
+│   │   ├── index.js
+│   │   ├── license
+│   │   ├── package.json
+│   │   └── readme.md
+│   ├── strip-ansi
+│   │   ├── index.d.ts
+│   │   ├── index.js
+│   │   ├── license
+│   │   ├── package.json
+│   │   └── readme.md
+│   ├── @stripe
+│   │   ├── react-stripe-js
+│   │   └── stripe-js
+│   ├── stripe
+│   │   ├── CHANGELOG.md
+│   │   ├── cjs
+│   │   ├── esm
+│   │   ├── LICENSE
+│   │   ├── OPENAPI_VERSION
+│   │   ├── package.json
+│   │   ├── README.md
+│   │   ├── types
+│   │   └── VERSION
+│   ├── @supabase
+│   ├── @tailwindcss
+│   │   └── typography
+│   ├── tailwindcss
+│   │   ├── dist
+│   │   ├── index.css
+│   │   ├── LICENSE
+│   │   ├── package.json
+│   │   ├── preflight.css
+│   │   ├── README.md
+│   │   ├── theme.css
+│   │   └── utilities.css
+│   ├── tailwindcss-animate
+│   │   ├── index.d.ts
+│   │   ├── index.js
+│   │   ├── LICENSE
+│   │   ├── package.json
+│   │   └── README.md
+│   ├── tailwind-merge
+│   │   ├── dist
+│   │   ├── LICENSE.md
+│   │   ├── package.json
+│   │   ├── README.md
+│   │   └── src
+│   ├── @tanstack
+│   │   ├── query-core
+│   │   └── react-query
+│   ├── tar-fs
+│   │   ├── index.js
+│   │   ├── LICENSE
+│   │   ├── package.json
+│   │   └── README.md
+│   ├── tar-stream
+│   │   ├── constants.js
+│   │   ├── extract.js
+│   │   ├── headers.js
+│   │   ├── index.js
+│   │   ├── LICENSE
+│   │   ├── package.json
+│   │   ├── pack.js
+│   │   └── README.md
+│   ├── text-decoder
+│   │   ├── index.js
+│   │   ├── lib
+│   │   ├── LICENSE
+│   │   ├── package.json
+│   │   └── README.md
+│   ├── tinyglobby
+│   │   ├── dist
+│   │   ├── LICENSE
+│   │   ├── package.json
+│   │   └── README.md
+│   ├── toidentifier
+│   │   ├── HISTORY.md
+│   │   ├── index.js
+│   │   ├── LICENSE
+│   │   ├── package.json
+│   │   └── README.md
+│   ├── @tootallnate
+│   │   └── quickjs-emscripten
+│   ├── tslib
+│   │   ├── CopyrightNotice.txt
+│   │   ├── LICENSE.txt
+│   │   ├── modules
+│   │   ├── package.json
+│   │   ├── README.md
+│   │   ├── SECURITY.md
+│   │   ├── tslib.d.ts
+│   │   ├── tslib.es6.html
+│   │   ├── tslib.es6.js
+│   │   ├── tslib.es6.mjs
+│   │   ├── tslib.html
+│   │   └── tslib.js
+│   ├── typed-query-selector
+│   │   ├── LICENSE
+│   │   ├── package.json
+│   │   ├── parser.d.ts
+│   │   ├── README.md
+│   │   ├── shim.d.ts
+│   │   └── strict.d.ts
+│   ├── type-is
+│   │   ├── HISTORY.md
+│   │   ├── index.js
+│   │   ├── LICENSE
+│   │   ├── package.json
+│   │   └── README.md
+│   ├── @types
+│   │   ├── babel__core
+│   │   ├── babel__generator
+│   │   ├── babel__template
+│   │   ├── babel__traverse
+│   │   ├── body-parser
+│   │   ├── connect
+│   │   ├── estree
+│   │   ├── express
+│   │   ├── express-serve-static-core
+│   │   ├── http-errors
+│   │   ├── mime
+│   │   ├── node
+│   │   ├── qs
+│   │   ├── range-parser
+│   │   ├── react
+│   │   ├── react-dom
+│   │   ├── send
+│   │   ├── serve-static
+│   │   └── yauzl
+│   ├── typescript
+│   │   ├── bin
+│   │   ├── lib
+│   │   ├── LICENSE.txt
+│   │   ├── package.json
+│   │   ├── README.md
+│   │   ├── SECURITY.md
+│   │   └── ThirdPartyNoticeText.txt
+│   ├── undici-types
+│   │   ├── agent.d.ts
+│   │   ├── api.d.ts
+│   │   ├── balanced-pool.d.ts
+│   │   ├── cache.d.ts
+│   │   ├── cache-interceptor.d.ts
+│   │   ├── client.d.ts
+│   │   ├── connector.d.ts
+│   │   ├── content-type.d.ts
+│   │   ├── cookies.d.ts
+│   │   ├── diagnostics-channel.d.ts
+│   │   ├── dispatcher.d.ts
+│   │   ├── env-http-proxy-agent.d.ts
+│   │   ├── errors.d.ts
+│   │   ├── eventsource.d.ts
+│   │   ├── fetch.d.ts
+│   │   ├── formdata.d.ts
+│   │   ├── global-dispatcher.d.ts
+│   │   ├── global-origin.d.ts
+│   │   ├── h2c-client.d.ts
+│   │   ├── handlers.d.ts
+│   │   ├── header.d.ts
+│   │   ├── index.d.ts
+│   │   ├── interceptors.d.ts
+│   │   ├── LICENSE
+│   │   ├── mock-agent.d.ts
+│   │   ├── mock-call-history.d.ts
+│   │   ├── mock-client.d.ts
+│   │   ├── mock-errors.d.ts
+│   │   ├── mock-interceptor.d.ts
+│   │   ├── mock-pool.d.ts
+│   │   ├── package.json
+│   │   ├── patch.d.ts
+│   │   ├── pool.d.ts
+│   │   ├── pool-stats.d.ts
+│   │   ├── proxy-agent.d.ts
+│   │   ├── readable.d.ts
+│   │   ├── README.md
+│   │   ├── retry-agent.d.ts
+│   │   ├── retry-handler.d.ts
+│   │   ├── util.d.ts
+│   │   ├── utility.d.ts
+│   │   ├── webidl.d.ts
+│   │   └── websocket.d.ts
+│   ├── universalify
+│   │   ├── index.js
+│   │   ├── LICENSE
+│   │   ├── package.json
+│   │   └── README.md
+│   ├── unpipe
+│   │   ├── HISTORY.md
+│   │   ├── index.js
+│   │   ├── LICENSE
+│   │   ├── package.json
+│   │   └── README.md
+│   ├── update-browserslist-db
+│   │   ├── check-npm-version.js
+│   │   ├── cli.js
+│   │   ├── index.d.ts
+│   │   ├── index.js
+│   │   ├── LICENSE
+│   │   ├── package.json
+│   │   ├── README.md
+│   │   └── utils.js
+│   ├── use-sync-external-store
+│   │   ├── cjs
+│   │   ├── index.js
+│   │   ├── LICENSE
+│   │   ├── package.json
+│   │   ├── README.md
+│   │   ├── shim
+│   │   └── with-selector.js
+│   ├── util-deprecate
+│   │   ├── browser.js
+│   │   ├── History.md
+│   │   ├── LICENSE
+│   │   ├── node.js
+│   │   ├── package.json
+│   │   └── README.md
+│   ├── utils-merge
+│   │   ├── index.js
+│   │   ├── LICENSE
+│   │   ├── .npmignore
+│   │   ├── package.json
+│   │   └── README.md
+│   ├── vary
+│   │   ├── HISTORY.md
+│   │   ├── index.js
+│   │   ├── LICENSE
+│   │   ├── package.json
+│   │   └── README.md
+│   ├── .vite
+│   │   └── deps
+│   ├── vite
+│   │   ├── bin
+│   │   ├── client.d.ts
+│   │   ├── dist
+│   │   ├── index.cjs
+│   │   ├── index.d.cts
+│   │   ├── LICENSE.md
+│   │   ├── misc
+│   │   ├── package.json
+│   │   ├── README.md
+│   │   └── types
+│   ├── @vitejs
+│   │   └── plugin-react
+│   ├── web-streams-polyfill
+│   │   ├── dist
+│   │   ├── es2018
+│   │   ├── es6
+│   │   ├── LICENSE
+│   │   ├── package.json
+│   │   ├── ponyfill
+│   │   └── README.md
+│   ├── wouter
+│   │   ├── esm
+│   │   ├── package.json
+│   │   ├── README.md
+│   │   └── types
+│   ├── wrap-ansi
+│   │   ├── index.js
+│   │   ├── license
+│   │   ├── package.json
+│   │   └── readme.md
+│   ├── wrappy
+│   │   ├── LICENSE
+│   │   ├── package.json
+│   │   ├── README.md
+│   │   └── wrappy.js
+│   ├── ws
+│   │   ├── browser.js
+│   │   ├── index.js
+│   │   ├── lib
+│   │   ├── LICENSE
+│   │   ├── package.json
+│   │   ├── README.md
+│   │   └── wrapper.mjs
+│   ├── y18n
+│   │   ├── build
+│   │   ├── CHANGELOG.md
+│   │   ├── index.mjs
+│   │   ├── LICENSE
+│   │   ├── package.json
+│   │   └── README.md
+│   ├── yallist
+│   │   ├── iterator.js
+│   │   ├── LICENSE
+│   │   ├── package.json
+│   │   ├── README.md
+│   │   └── yallist.js
+│   ├── yargs
+│   │   ├── browser.d.ts
+│   │   ├── browser.mjs
+│   │   ├── build
+│   │   ├── helpers
+│   │   ├── index.cjs
+│   │   ├── index.mjs
+│   │   ├── lib
+│   │   ├── LICENSE
+│   │   ├── locales
+│   │   ├── package.json
+│   │   ├── README.md
+│   │   ├── yargs
+│   │   └── yargs.mjs
+│   ├── yargs-parser
+│   │   ├── browser.js
+│   │   ├── build
+│   │   ├── CHANGELOG.md
+│   │   ├── LICENSE.txt
+│   │   ├── package.json
+│   │   └── README.md
+│   ├── yauzl
+│   │   ├── index.js
+│   │   ├── LICENSE
+│   │   ├── package.json
+│   │   └── README.md
+│   └── zod
+│       ├── dist
+│       ├── LICENSE
+│       ├── package.json
+│       ├── README.md
+│       ├── v3
+│       ├── v4
+│       └── v4-mini
+├── package.json
+├── package-lock.json
+├── production-deployment-checklist.md
+├── PRODUCTION_DEPLOYMENT_CHECKLIST.md
+├── production-deploy.sh
+├── production_lock.json
+├── PRODUCTION_READINESS_CHECKLIST.md
+├── production-ready.json
+├── public
+│   ├── ai-testing-framework-integration.js
+│   ├── authentic-leads-map.js
+│   ├── auto-module-scaffolder.js
+│   ├── auto-refresh-system.js
+│   ├── browser-activator.js
+│   ├── browser-demo-showcase.js
+│   ├── browser-in-browser-controller.js
+│   ├── client-dashboard-demo.html
+│   ├── embed-api-integration.js
+│   ├── favicon-32x32.png
+│   ├── force-browser-refresh.js
+│   ├── force-visual-visibility.js
+│   ├── html-rendering-enforcer.js
+│   ├── immediate-visual-test.js
+│   ├── index.css
+│   ├── index.html
+│   ├── index.js
+│   ├── instant-refresh-controller.js
+│   ├── integrations-dashboard.html
+│   ├── map-deployment-fix.js
+│   ├── nexus-comprehensive-audit.js
+│   ├── nexus-llm-assistant.js
+│   ├── nexus-master-control.js
+│   ├── openai-module-generator.js
+│   ├── platform-migration-assistant.js
+│   ├── platform-overview.html
+│   ├── quantum-intelligence-dashboard.js
+│   ├── realtime-visual-feedback.js
+│   ├── replit-agent-trigger-ui.js
+│   ├── subscription-landing.html
+│   └── visual-status-indicator.js
+├── pyproject.toml
+├── .pythonlibs
+│   ├── bin
+│   │   ├── activate
+│   │   ├── activate.bat
+│   │   ├── activate.csh
+│   │   ├── activate.fish
+│   │   ├── activate.nu
+│   │   ├── activate.ps1
+│   │   ├── activate_this.py
+│   │   ├── deactivate.bat
+│   │   ├── f2py
+│   │   ├── flask
+│   │   ├── gunicorn
+│   │   ├── normalizer
+│   │   ├── numpy-config
+│   │   ├── pydoc.bat
+│   │   ├── python -> /nix/store/wqhkxzzlaswkj3gimqign99sshvllcg6-python-wrapped-0.1.0/bin/.python-wrapped
+│   │   ├── python3 -> /nix/store/wqhkxzzlaswkj3gimqign99sshvllcg6-python-wrapped-0.1.0/bin/.python-wrapped
+│   │   └── python3.11 -> /nix/store/wqhkxzzlaswkj3gimqign99sshvllcg6-python-wrapped-0.1.0/bin/.python-wrapped
+│   ├── CACHEDIR.TAG
+│   ├── .gitignore
+│   ├── lib
+│   │   └── python3.11
+│   ├── lib64 -> lib
+│   └── pyvenv.cfg
+├── QUANTUM_INTELLIGENCE_RESEARCH_PROMPT.md
+├── react-modules.html
+├── recovery.json
+├── redirect.html
+├── .replit
+├── replit_env_dump.txt
+├── replit_tree.txt
+├── run_server.py
+├── runtime_brainlink.map
+├── server
+│   ├── advanced-features-api.js
+│   ├── ai-bypass-engine.js
+│   ├── ai-healing-system.ts
+│   ├── api
+│   │   └── new-lead.ts
+│   ├── api-key-vault.js
+│   ├── api-vault-endpoints.ts
+│   ├── api-verification-system.ts
+│   ├── authentic-lead-generator.ts
+│   ├── auth-middleware.ts
+│   ├── automated-api-key-manager.ts
+│   ├── automated-setup.ts
+│   ├── autonomous-deployment-system.ts
+│   ├── autonomous-pipeline.js
+│   ├── autonomous-quantum-stress-tester.ts
+│   ├── autonomous-self-fix.js
+│   ├── backup-recovery.js
+│   ├── binance-account-automation.ts
+│   ├── bmi-analytics-engine.ts
+│   ├── browser-automation-engine.ts
+│   ├── business-card-processor.js
+│   ├── business-metrics-api.js
+│   ├── business-valuation-engine.ts
+│   ├── clean-routes.ts
+│   ├── client-automation-pipeline.ts
+│   ├── client-dashboard-generator.js
+│   ├── cloud-backup-service.ts
+│   ├── comprehensive-dashboard.ts
+│   ├── comprehensive-deployment-sweep.ts
+│   ├── comprehensive-test-suite.ts
+│   ├── comprehensive-ui-audit.ts
+│   ├── consolidated-trading-engine.ts
+│   ├── consulting-routes.ts
+│   ├── dashboard-automation-engine.ts
+│   ├── dashboard-injector.ts
+│   ├── dashboard-validation-api.js
+│   ├── db.ts
+│   ├── deduplication-engine.ts
+│   ├── deployment-confidence-validator.ts
+│   ├── deployment-protection.ts
+│   ├── dev-progress-tracker.ts
+│   ├── domain-email-automation.ts
+│   ├── dual-trading-engine.ts
+│   ├── dwc-command-module.ts
+│   ├── dwc-platform.html
+│   ├── dwc-universal-extractor.ts
+│   ├── dw-system-monitor.ts
+│   ├── emergency-server.ts
+│   ├── final-deployment-report.ts
+│   ├── final-deployment-validator.ts
+│   ├── financial-transcendence-engine.ts
+│   ├── free-business-data-sources.ts
+│   ├── free-public-apis-integration.js
+│   ├── funding-research-engine.ts
+│   ├── geolocation-lead-engine.ts
+│   ├── google-api-automation.ts
+│   ├── google-places-service.js
+│   ├── google-places-throttle.js
+│   ├── hybrid-lead-system.js
+│   ├── hyperdrive-trading-engine.ts
+│   ├── index.js
+│   ├── index.ts
+│   ├── infinity-sovereign-controller.ts
+│   ├── intelligent-email-agent.ts
+│   ├── intelligent-form-automation.ts
+│   ├── intelligent-puppeteer-learner.ts
+│   ├── kaizen-funding-integration.ts
+│   ├── kaizen-master-controller.ts
+│   ├── kaizen-ultimate-deploy.js
+│   ├── kaizen-ultra-agent.ts
+│   ├── kaizen-uniform-agent.ts
+│   ├── kate-api-stress-validator.ts
+│   ├── kate-automation-stress-test.ts
+│   ├── layer-chart-renderer.js
+│   ├── lead-dashboard-generator.ts
+│   ├── lead-data-verifier.js
+│   ├── lead-deduplication-system.js
+│   ├── lead-enhancer.ts
+│   ├── lead-generation-engine.ts
+│   ├── lean-deployment-extractor.ts
+│   ├── llc-formation-engine.ts
+│   ├── loc-credit-engine.ts
+│   ├── market-data-service.ts
+│   ├── master-brain-intelligence.ts
+│   ├── minimal-routes.ts
+│   ├── minimal-server.js
+│   ├── mobile-sync-system.ts
+│   ├── nexus-career-bootstrap.ts
+│   ├── nexus-chat-tracker.ts
+│   ├── nexus-deployment-audit.ts
+│   ├── nexus-diagnostic-engine.js
+│   ├── nexus-diagnostic-engine.ts
+│   ├── nexus-intelligence-engine.ts
+│   ├── nexus-intelligence-orchestrator.js
+│   ├── nexus-intelligence.ts
+│   ├── nexus-master-control.ts
+│   ├── nexus-observer-core.ts
+│   ├── nexus-platform-regenerator.ts
+│   ├── nexus-production-core.ts
+│   ├── nexus-production-server.ts
+│   ├── nexus-quantum-deep-dive.ts
+│   ├── nexus-reconciliation.ts
+│   ├── nexus-total-recall.ts
+│   ├── nexus-ultradev-engine.ts
+│   ├── nexus-visual-lead-scanner.ts
+│   ├── nexus-visual-scanner.js
+│   ├── nlp-query-parser.js
+│   ├── nominatim-lead-generator.ts
+│   ├── notification-service.ts
+│   ├── openai-codex-integration.ts
+│   ├── openai-deployment-assistant.js
+│   ├── openai-integration.js
+│   ├── openai-lead-generator.js
+│   ├── openai-nexus-orchestrator.js
+│   ├── operational-dashboard.html
+│   ├── optimized-self-healing.ts
+│   ├── passkey-authentication.ts
+│   ├── permissions-bootstrap.ts
+│   ├── persistent-backup-system.ts
+│   ├── personal-credit-maximization.ts
+│   ├── photo-recovery-engine.ts
+│   ├── pionex-automated-trader.ts
+│   ├── pionex-bot-liquidator.ts
+│   ├── pionex-browser-automation.ts
+│   ├── pionex-browser-trader.ts
+│   ├── pionex-live-trading-engine.ts
+│   ├── pionex-robinhood-trading-engine.ts
+│   ├── playwright-automation.ts
+│   ├── portal-automation-system.ts
+│   ├── predictive-lead-scoring.js
+│   ├── production-server.js
+│   ├── production-server.ts
+│   ├── proof-of-concept.ts
+│   ├── public
+│   │   ├── assets
+│   │   ├── index.html
+│   │   └── nexus-master-user-simulation.js
+│   ├── public-apis-integration.js
+│   ├── qnis-behavior-simulator.ts
+│   ├── qnis-lead-engine.js
+│   ├── qnis-master-core.ts
+│   ├── qnis-precision-core.ts
+│   ├── qq-asi-excellence-matrix.ts
+│   ├── qq-asi-pre-deployment-sweep.ts
+│   ├── qq-delta-flow-engine.ts
+│   ├── qq-intelligent-routing-system.ts
+│   ├── qq-modeling-automation-engine.ts
+│   ├── qq-platform-risk-manager.ts
+│   ├── qq-quantum-trading-engine.ts
+│   ├── quantum-asi-optimization-engine.ts
+│   ├── quantum-auth.ts
+│   ├── quantum-dom-simulator.ts
+│   ├── quantum-easter-egg-system.ts
+│   ├── quantum-kaizen-executive.ts
+│   ├── quantum-routes.ts
+│   ├── quantum-trading-api.ts
+│   ├── quantum-trading-engine.ts
+│   ├── rapid-deployment-accelerator.ts
+│   ├── realistic-data-engine.ts
+│   ├── real-time-location-lead-generator.js
+│   ├── recovery-engine.ts
+│   ├── replit-agent-behavior-simulator.ts
+│   ├── replit-agent-trigger-endpoint.ts
+│   ├── replit-auth-integration.ts
+│   ├── replitAuth.ts
+│   ├── role-based-auth.ts
+│   ├── routes-corrupted.ts
+│   ├── routes-openai.js
+│   ├── routes.ts
+│   ├── safe-action-executor.ts
+│   ├── screenshot-lead-extractor.js
+│   ├── seamless-integration-framework.js
+│   ├── simplified-routes.ts
+│   ├── simplified-trading-engine.ts
+│   ├── sse-live-reload.js
+│   ├── storage.ts
+│   ├── stripe-payment-engine.ts
+│   ├── suno-auth.ts
+│   ├── system-status-validator.js
+│   ├── trading-activation.ts
+│   ├── trading-dashboard-routes.ts
+│   ├── trading-learning-engine.ts
+│   ├── trading-metrics.ts
+│   ├── trading-readiness-bypass.ts
+│   ├── traxovo-unified-automation.ts
+│   ├── trello-integration.js
+│   ├── trillion-position-simulator.ts
+│   ├── trucking-api.js
+│   ├── twilio-integration.js
+│   ├── universal-browser-automation.ts
+│   ├── universal-platform-automation.ts
+│   ├── user-management-system.ts
+│   ├── validation-api.js
+│   ├── vite.ts
+│   ├── watson-deployment-validator.ts
+│   ├── watson-mobile-command-center.ts
+│   ├── watson-quantum-override.ts
+│   └── websocket-live-reload.js
+├── server.log
+├── shared
+│   └── schema.ts
+├── simple-deploy.cjs
+├── site.webmanifest
+├── storage
+│   └── leads_backup.json
+├── styles.css
+├── system_snapshot.json
+├── tailwind.config.ts
+├── test-business.html
+├── test-logout-demo.html
+├── trading-bot
+│   ├── client
+│   │   └── index.html
+│   ├── package.json
+│   ├── README.md
+│   ├── server
+│   │   ├── hyperdrive-trading-engine.ts
+│   │   ├── index.ts
+│   │   └── pionex-browser-automation.ts
+│   ├── shared
+│   ├── start-trading-bot.sh
+│   └── tsconfig.json
+├── TRADING_BOT_EXTRACTION_COMPLETE.md
+├── trucking-company-website.html
+├── tsconfig.json
+├── ui_components
+│   └── updated_nexus_trader_dashboard.js
+├── .upm
+│   └── store.json
+├── uv.lock
+├── vercel.json
+├── vercel.tar.gz
+├── visual_test.html
+├── vite.config.ts
+├── WATSON_MOBILE_COMMAND_DEPLOYMENT_COMPLETE.md
+└── watson_unlock_validation.json
+
+970 directories, 2505 files

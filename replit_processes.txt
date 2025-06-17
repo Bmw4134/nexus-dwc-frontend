@@ -1,0 +1,7 @@
+USER       PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+runner       1  0.0  0.0 3332168 50732 ?       Ssl  13:45   0:03 /nix/store/16y7piza8m6bsdz06x4625jnibz78nbn-pid1-0.0.1/bin/pid1
+runner      17  0.2  0.3 12138244 220700 ?     Rl   13:45   0:11 pid2 --no-deprecation /pid2/bundles/0.0.1422/server.cjs --json-logs --start-timestamp=1750167928810 --socket-listener-fd=3
+runner      38  0.0  0.0   3852  2688 ?        S    13:45   0:00 nix-editor --return-output
+runner    5038  0.0  0.0   9924  6400 pts/1    Ss   14:34   0:00 /nix/store/x9d49vaqlrkw97p9ichdwrnbh013kq7z-bash-interactive-5.2p37/bin/bash -rcfile /nix/store/5m19p9rqshi95sxcjiq121b6saz8ra31-replit-bashrc/bashrc --rcfile /nix/store/5m19p9rqshi95sxcjiq121b6saz8ra31-replit-bashrc/bashrc
+runner    5133  0.0  0.0  10940  4480 pts/1    R+   14:49   0:00 ps aux
+runner   18971  0.0  0.0   9924  6272 pts/0    Ss+  14:24   0:00 /nix/store/x9d49vaqlrkw97p9ichdwrnbh013kq7z-bash-interactive-5.2p37/bin/bash -rcfile /nix/store/5m19p9rqshi95sxcjiq121b6saz8ra31-replit-bashrc/bashrc --rcfile /nix/store/5m19p9rqshi95sxcjiq121b6saz8ra31-replit-bashrc/bashrc
